@@ -55,17 +55,6 @@ jobs:
         git commit -m "Update SOFA data - $timestamp" -a || exit 0
         git push
 
-      run: |
-        jq -c . v1/ios_data_feed.json > v1/ios_data_feed_jq.json
-        rm -f v1/ios_data_feed.json
-        mv v1/ios_data_feed_jq.json v1/ios_data_feed.json
-        jq -c . v1/macos_data_feed.json > v1/macos_data_feed_jq.json
-        rm -f v1/macos_data_feed.json
-        mv v1/macos_data_feed_jq.json v1/macos_data_feed.json
-        jq -c . v1/timestamp.json > v1/timestamp_jq.json
-        rm -f v1/timestamp.json
-        mv v1/timestamp_jq.json v1/timestamp.json
-
       uses: s3-actions/s3cmd@ef6ce583c6f4e5c121c53777f2f17740c36243be #v1.6.1
       with:
         provider: digitalocean
