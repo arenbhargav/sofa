@@ -1,5 +1,5 @@
 {
-    "etag": "427f228bc7736b73705909be0f4c7e285addf36cb6a803f7c2b32c4a62420a53",
+    "etag": "0726717a4045247220d3a97f264ddec7fa859be34109b0484ca61f64e21b342d",
     "data": {
         "PublicAssetSets": {
             "iOS": [
@@ -3458,7 +3458,7 @@
                 {
                     "ProductVersion": "14.6.1",
                     "Build": "23G93",
-                    "PostingDate": "2024-08-07",
+                    "PostingDate": "2024-08-14",
                     "ExpirationDate": "2024-12-15",
                     "SupportedDevices": [
                         "J132AP",
@@ -3522,7 +3522,7 @@
                 {
                     "ProductVersion": "13.6.9",
                     "Build": "22G830",
-                    "PostingDate": "2024-08-07",
+                    "PostingDate": "2024-08-14",
                     "ExpirationDate": "2024-12-15",
                     "SupportedDevices": [
                         "J132AP",
@@ -3712,7 +3712,7 @@
                 {
                     "ProductVersion": "11.7.10",
                     "Build": "20G1427",
-                    "PostingDate": "2024-08-07",
+                    "PostingDate": "2024-08-14",
                     "ExpirationDate": "2025-02-10",
                     "SupportedDevices": [
                         "J132AP",
@@ -3933,7 +3933,7 @@
                 {
                     "ProductVersion": "12.7.6",
                     "Build": "21H1320",
-                    "PostingDate": "2024-08-07",
+                    "PostingDate": "2024-08-14",
                     "ExpirationDate": "2025-02-10",
                     "SupportedDevices": [
                         "J132AP",
