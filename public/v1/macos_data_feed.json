@@ -1,5 +1,5 @@
 {
-    "UpdateHash": "056c064746d981b58199feede2f0a89e1a8d1cc83994ac0ed81833be4ab31105",
+    "UpdateHash": "48ca3c14ad4a7b99d9931ee94d53426c792af1ceb2101ff0fb74e7a54d42f1fd",
     "OSVersions": [
         {
             "OSVersion": "Sequoia 15",
@@ -7742,8 +7742,8 @@
         "ReleaseDate": "2024-10-16T15:47:46Z"
     },
     "XProtectPlistConfigData": {
-        "com.apple.XProtect": "5279",
-        "ReleaseDate": "2024-11-05T18:09:02Z"
+        "com.apple.XProtect": "5282",
+        "ReleaseDate": "2024-11-12T18:13:16Z"
     },
     "Models": {
         "Mac15,13": {
