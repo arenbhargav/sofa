@@ -1,5 +1,5 @@
 {
-    "UpdateHash": "39759c11bbe7dba86b90bbe12d362542ffddb0deec2abd5a4fb601983d30957c",
+    "UpdateHash": "6aa991dcc0fa671085bcf062c07c01913b68cdff241e41d54b4cdf805890da95",
     "OSVersions": [
         {
             "OSVersion": "Sequoia 15",
@@ -8787,10 +8787,10 @@
             }
         ],
         "LatestMacIPSW": {
-            "macos_ipsw_url": "https://updates.cdn-apple.com/2024FallFCS/fullrestores/072-12340/78D28AC4-CCFC-45D2-BD27-1E5D915E43F9/UniversalMac_15.1_24B83_Restore.ipsw",
-            "macos_ipsw_build": "24B83",
-            "macos_ipsw_version": "15.1",
-            "macos_ipsw_apple_slug": "072-12340"
+            "macos_ipsw_url": "https://updates.cdn-apple.com/2024FallFCS/fullrestores/072-30094/44BD016F-6EE3-4EE5-8890-6F9AA008C537/UniversalMac_15.1.1_24B91_Restore.ipsw",
+            "macos_ipsw_build": "24B91",
+            "macos_ipsw_version": "15.1.1",
+            "macos_ipsw_apple_slug": "072-30094"
         }
     }
 }
