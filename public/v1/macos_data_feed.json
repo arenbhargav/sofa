@@ -1,5 +1,5 @@
 {
-    "UpdateHash": "e4dea036d998da7ecfad42e14373084e45596ae0502bb30a0d0390fedfb2b7bc",
+    "UpdateHash": "7254dac347ce705505b88f0549381739c1f94e9c62ce5ebcd1472eb45a377fab",
     "OSVersions": [
         {
             "OSVersion": "Sequoia 15",
@@ -9019,12 +9019,19 @@
     "InstallationApps": {
         "LatestUMA": {
             "title": "macOS Sequoia",
-            "version": "15.1.1",
-            "build": "24B91",
-            "apple_slug": "072-30111",
-            "url": "https://swcdn.apple.com/content/downloads/21/19/072-30111-A_4V7Y0VVH1Q/ie1hmy1uaj094z769s4zqmdaojp2vk4dkj/InstallAssistant.pkg"
+            "version": "15.2",
+            "build": "24C101",
+            "apple_slug": "072-44286",
+            "url": "https://swcdn.apple.com/content/downloads/52/42/072-44286-A_45NJHEFEDY/nxk2stn9edtjgfr3dqsh046dx4ti2h7w2s/InstallAssistant.pkg"
         },
         "AllPreviousUMA": [
+            {
+                "title": "macOS Sequoia",
+                "version": "15.1.1",
+                "build": "24B91",
+                "apple_slug": "072-30111",
+                "url": "https://swcdn.apple.com/content/downloads/21/19/072-30111-A_4V7Y0VVH1Q/ie1hmy1uaj094z769s4zqmdaojp2vk4dkj/InstallAssistant.pkg"
+            },
             {
                 "title": "macOS Sequoia",
                 "version": "15.1.1",
@@ -9062,6 +9069,13 @@
             },
             {
                 "title": "macOS Sonoma",
+                "version": "14.7.2",
+                "build": "23H311",
+                "apple_slug": "072-36705",
+                "url": "https://swcdn.apple.com/content/downloads/36/56/072-36705-A_FT40OBTKOY/qlf8amkb6ym29f9zobl2y6vuusd87visbr/InstallAssistant.pkg"
+            },
+            {
+                "title": "macOS Sonoma",
                 "version": "14.7.1",
                 "build": "23H222",
                 "apple_slug": "072-09041",
@@ -9087,6 +9101,13 @@
                 "build": "23E224",
                 "apple_slug": "052-77516",
                 "url": "https://swcdn.apple.com/content/downloads/04/13/052-77516-A_4P7VY083DT/83qy3989rsnylxagdmim3owwjdtc33zfe4/InstallAssistant.pkg"
+            },
+            {
+                "title": "macOS Ventura",
+                "version": "13.7.2",
+                "build": "22H313",
+                "apple_slug": "072-36728",
+                "url": "https://swcdn.apple.com/content/downloads/51/51/072-36728-A_N5X8ANWQ9J/l4lowuoc3s3tj1et0c2qphkdpu9qznon7k/InstallAssistant.pkg"
             },
             {
                 "title": "macOS Ventura",
@@ -9132,10 +9153,10 @@
             }
         ],
         "LatestMacIPSW": {
-            "macos_ipsw_url": "https://updates.cdn-apple.com/2024FallFCS/fullrestores/072-30094/44BD016F-6EE3-4EE5-8890-6F9AA008C537/UniversalMac_15.1.1_24B91_Restore.ipsw",
-            "macos_ipsw_build": "24B91",
-            "macos_ipsw_version": "15.1.1",
-            "macos_ipsw_apple_slug": "072-30094"
+            "macos_ipsw_url": "https://updates.cdn-apple.com/2024FallFCS/fullrestores/072-44245/E811A1B0-28A9-4FCD-AE32-322E796F0EB8/UniversalMac_15.2_24C101_Restore.ipsw",
+            "macos_ipsw_build": "24C101",
+            "macos_ipsw_version": "15.2",
+            "macos_ipsw_apple_slug": "072-44245"
         }
     }
 }
