@@ -1,5 +1,5 @@
 {
-    "UpdateHash": "a6cdfb1e0520260c1d741a68e135e61231845cfd75379bcc709142a656ab80a7",
+    "UpdateHash": "adc3edf8197a19effaa89ebcfa97907bcd53ca47089565acb026637a4e89c3b3",
     "OSVersions": [
         {
             "OSVersion": "Sequoia 15",
@@ -8084,9 +8084,9 @@
         }
     ],
     "XProtectPayloads": {
-        "com.apple.XProtectFramework.XProtect": "147",
+        "com.apple.XProtectFramework.XProtect": "149",
         "com.apple.XprotectFramework.PluginService": "74",
-        "ReleaseDate": "2024-10-16T15:47:46Z"
+        "ReleaseDate": "2024-12-17T18:03:20Z"
     },
     "XProtectPlistConfigData": {
         "com.apple.XProtect": "5283",
