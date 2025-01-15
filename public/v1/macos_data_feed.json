@@ -1,5 +1,5 @@
 {
-    "UpdateHash": "20a0e4fe810cf3268087f7be9fbfa6aa0e46e3121076321b3e545e549238afa2",
+    "UpdateHash": "1dc541c3eb5991cc0d9d4b63024bee02c0831c7e9698a1bee4d221c124b1c432",
     "OSVersions": [
         {
             "OSVersion": "Sequoia 15",
@@ -394,6 +394,7 @@
                         "CVE-2024-44270": false,
                         "CVE-2024-44280": false,
                         "CVE-2024-44260": false,
+                        "CVE-2024-54535": false,
                         "CVE-2024-44298": false,
                         "CVE-2024-44273": false,
                         "CVE-2024-44295": false,
@@ -403,6 +404,7 @@
                         "CVE-2024-44289": false,
                         "CVE-2024-44282": false,
                         "CVE-2024-44265": false,
+                        "CVE-2024-40854": false,
                         "CVE-2024-44215": false,
                         "CVE-2024-44297": false,
                         "CVE-2024-44216": false,
@@ -413,6 +415,7 @@
                         "CVE-2024-44242": false,
                         "CVE-2024-44285": false,
                         "CVE-2024-44239": false,
+                        "CVE-2024-44286": false,
                         "CVE-2024-40849": false,
                         "CVE-2024-44201": false,
                         "CVE-2024-44231": false,
@@ -437,8 +440,8 @@
                         "CVE-2024-44195": false,
                         "CVE-2024-44259": false,
                         "CVE-2024-44229": false,
-                        "CVE-2024-44211": false,
                         "CVE-2024-44219": false,
+                        "CVE-2024-44211": false,
                         "CVE-2024-44218": false,
                         "CVE-2024-44248": false,
                         "CVE-2024-54538": false,
@@ -458,10 +461,11 @@
                         "CVE-2024-44296": false,
                         "CVE-2024-44212": false,
                         "CVE-2024-44244": false,
-                        "CVE-2024-44257": false
+                        "CVE-2024-44257": false,
+                        "CVE-2024-44250": false
                     },
                     "ActivelyExploitedCVEs": [],
-                    "UniqueCVEsCount": 75,
+                    "UniqueCVEsCount": 79,
                     "DaysSincePreviousRelease": 25
                 },
                 {
@@ -1060,6 +1064,7 @@
                         "CVE-2024-44289": false,
                         "CVE-2024-44282": false,
                         "CVE-2024-44265": false,
+                        "CVE-2024-40854": false,
                         "CVE-2024-44215": false,
                         "CVE-2024-44297": false,
                         "CVE-2024-44216": false,
@@ -1097,7 +1102,7 @@
                         "CVE-2024-44257": false
                     },
                     "ActivelyExploitedCVEs": [],
-                    "UniqueCVEsCount": 51,
+                    "UniqueCVEsCount": 52,
                     "DaysSincePreviousRelease": 42
                 },
                 {
@@ -1498,6 +1503,7 @@
                         "CVE-2024-27816": false,
                         "CVE-2024-27825": false,
                         "CVE-2024-27829": false,
+                        "CVE-2024-40771": false,
                         "CVE-2024-27841": false,
                         "CVE-2024-23236": false,
                         "CVE-2024-27805": false,
@@ -1534,6 +1540,7 @@
                         "CVE-2024-27884": false,
                         "CVE-2024-27842": false,
                         "CVE-2024-27796": false,
+                        "CVE-2024-27856": false,
                         "CVE-2024-27834": false,
                         "CVE-2024-27838": false,
                         "CVE-2024-27808": false,
@@ -1543,7 +1550,7 @@
                         "CVE-2024-27820": false
                     },
                     "ActivelyExploitedCVEs": [],
-                    "UniqueCVEsCount": 49,
+                    "UniqueCVEsCount": 51,
                     "DaysSincePreviousRelease": 49
                 },
                 {
@@ -2950,6 +2957,7 @@
                         "CVE-2024-44289": false,
                         "CVE-2024-44282": false,
                         "CVE-2024-44265": false,
+                        "CVE-2024-40854": false,
                         "CVE-2024-44215": false,
                         "CVE-2024-44297": false,
                         "CVE-2024-44216": false,
@@ -2984,7 +2992,7 @@
                         "CVE-2024-44257": false
                     },
                     "ActivelyExploitedCVEs": [],
-                    "UniqueCVEsCount": 48,
+                    "UniqueCVEsCount": 49,
                     "DaysSincePreviousRelease": 42
                 },
                 {
@@ -3337,6 +3345,7 @@
                         "VMM-x86_64"
                     ],
                     "CVEs": {
+                        "CVE-2024-40771": false,
                         "CVE-2024-27805": false,
                         "CVE-2024-27817": false,
                         "CVE-2024-27831": false,
@@ -3362,7 +3371,7 @@
                     "ActivelyExploitedCVEs": [
                         "CVE-2024-23296"
                     ],
-                    "UniqueCVEsCount": 21,
+                    "UniqueCVEsCount": 22,
                     "DaysSincePreviousRelease": 49
                 },
                 {
@@ -5768,6 +5777,7 @@
                         "VMM-x86_64"
                     ],
                     "CVEs": {
+                        "CVE-2024-40771": false,
                         "CVE-2024-27805": false,
                         "CVE-2024-27817": false,
                         "CVE-2024-27831": false,
@@ -5788,7 +5798,7 @@
                         "CVE-2024-27796": false
                     },
                     "ActivelyExploitedCVEs": [],
-                    "UniqueCVEsCount": 18,
+                    "UniqueCVEsCount": 19,
                     "DaysSincePreviousRelease": 67
                 },
                 {
