@@ -1,5 +1,5 @@
 {
-    "UpdateHash": "271088011b5c124f4205394cc50904e227774dc4572c382a123c6935f3771da7",
+    "UpdateHash": "d46cb47991691a6f75027cd1d0c51c1fe92b4cba6dfe2f6eb39ea89c6db21ad6",
     "OSVersions": [
         {
             "OSVersion": "Sequoia 15",
@@ -9615,6 +9615,13 @@
             },
             {
                 "title": "macOS Sonoma",
+                "version": "14.7.4",
+                "build": "23H420",
+                "apple_slug": "072-84039",
+                "url": "https://swcdn.apple.com/content/downloads/32/49/072-84039-A_JPGNVJRH1M/cazcuskjdk6y6yrviytxanoevr5ihmz9lb/InstallAssistant.pkg"
+            },
+            {
+                "title": "macOS Sonoma",
                 "version": "14.7.3",
                 "build": "23H417",
                 "apple_slug": "072-61299",
@@ -9633,6 +9640,13 @@
                 "build": "23H222",
                 "apple_slug": "072-09041",
                 "url": "https://swcdn.apple.com/content/downloads/12/44/072-09041-A_ZYPP05KKXT/jpuuhsha7r52g4p867qvcdfaugaloimbgh/InstallAssistant.pkg"
+            },
+            {
+                "title": "macOS Ventura",
+                "version": "13.7.4",
+                "build": "22H420",
+                "apple_slug": "072-83845",
+                "url": "https://swcdn.apple.com/content/downloads/08/22/072-83845-A_XJNKWES8K3/95bsibbbgdt0eyfr278z60061tw15x7g40/InstallAssistant.pkg"
             },
             {
                 "title": "macOS Ventura",
