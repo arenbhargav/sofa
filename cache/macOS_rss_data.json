@@ -13,7 +13,7 @@
             "CVE-2022-22578": false,
             "CVE-2022-22585": false,
             "CVE-2022-22591": false,
-            "CVE-2022-22587": true,
+            "CVE-2022-22587": false,
             "CVE-2022-22593": false,
             "CVE-2022-22579": false,
             "CVE-2022-22646": false,
@@ -24,9 +24,7 @@
             "CVE-2022-22592": false,
             "CVE-2022-22594": false
         },
-        "ActivelyExploitedCVEs": [
-            "CVE-2022-22587"
-        ],
+        "ActivelyExploitedCVEs": [],
         "UniqueCVEsCount": 15,
         "DaysSincePreviousRelease": 0
     },
