@@ -1,5 +1,5 @@
 {
-    "UpdateHash": "3219348059d069792f68283c87b97100389115e85d026807a3efbfdb3cc18706",
+    "UpdateHash": "ad8ed8050dd45da6431d68c8003a91f9c8e2ced342fdc0cc8b92a7ec96afc807",
     "OSVersions": [
         {
             "OSVersion": "Sequoia 15",
@@ -3544,6 +3544,7 @@
                         "CVE-2023-32377": false,
                         "CVE-2023-38615": false,
                         "CVE-2023-40448": false,
+                        "CVE-2023-42969": false,
                         "CVE-2023-40432": false,
                         "CVE-2023-42871": false,
                         "CVE-2023-40399": false,
@@ -3577,7 +3578,9 @@
                         "CVE-2023-42959": false,
                         "CVE-2023-23495": false,
                         "CVE-2023-40434": false,
+                        "CVE-2023-41077": false,
                         "CVE-2023-38586": false,
+                        "CVE-2023-42961": false,
                         "CVE-2023-40436": false,
                         "CVE-2023-40396": false,
                         "CVE-2023-41995": false,
@@ -3594,6 +3597,9 @@
                         "CVE-2023-40427": false,
                         "CVE-2023-42957": false,
                         "CVE-2023-32421": false,
+                        "CVE-2023-42981": false,
+                        "CVE-2023-42982": false,
+                        "CVE-2023-42983": false,
                         "CVE-2023-42826": false,
                         "CVE-2023-42918": false,
                         "CVE-2023-41986": false,
@@ -3605,6 +3611,7 @@
                         "CVE-2023-42949": false,
                         "CVE-2023-42934": false,
                         "CVE-2023-37448": false,
+                        "CVE-2023-42977": false,
                         "CVE-2023-38607": false,
                         "CVE-2023-41987": false,
                         "CVE-2023-41063": false,
@@ -3613,6 +3620,7 @@
                         "CVE-2023-40388": false,
                         "CVE-2023-35990": false,
                         "CVE-2023-40417": false,
+                        "CVE-2023-40425": false,
                         "CVE-2023-40452": false,
                         "CVE-2023-40430": false,
                         "CVE-2023-41996": false,
@@ -3624,23 +3632,27 @@
                         "CVE-2023-41968": false,
                         "CVE-2023-40450": false,
                         "CVE-2023-42948": false,
+                        "CVE-2023-38614": false,
                         "CVE-2023-40424": false,
                         "CVE-2023-39434": false,
                         "CVE-2023-40414": false,
+                        "CVE-2023-42970": false,
                         "CVE-2023-41074": false,
                         "CVE-2023-35074": false,
+                        "CVE-2023-42875": false,
                         "CVE-2023-41993": true,
                         "CVE-2023-32359": false,
                         "CVE-2023-40385": false,
                         "CVE-2023-42833": false,
                         "CVE-2023-38610": false,
+                        "CVE-2023-41076": false,
                         "CVE-2023-41066": false,
                         "CVE-2023-41979": false
                     },
                     "ActivelyExploitedCVEs": [
                         "CVE-2023-41993"
                     ],
-                    "UniqueCVEsCount": 96,
+                    "UniqueCVEsCount": 108,
                     "DaysSincePreviousRelease": 0
                 }
             ],
@@ -5416,6 +5428,7 @@
                         "VMM-x86_64"
                     ],
                     "CVEs": {
+                        "CVE-2023-42969": false,
                         "CVE-2023-40412": false,
                         "CVE-2023-40409": false,
                         "CVE-2023-41071": false,
@@ -5424,6 +5437,7 @@
                         "CVE-2023-41232": false,
                         "CVE-2023-40406": false,
                         "CVE-2023-40420": false,
+                        "CVE-2023-42961": false,
                         "CVE-2023-41984": false,
                         "CVE-2023-41981": false,
                         "CVE-2023-41992": true,
@@ -5442,7 +5456,7 @@
                         "CVE-2023-41992",
                         "CVE-2023-41991"
                     ],
-                    "UniqueCVEsCount": 21,
+                    "UniqueCVEsCount": 23,
                     "DaysSincePreviousRelease": 14
                 },
                 {
@@ -7703,6 +7717,7 @@
                         "VMM-x86_64"
                     ],
                     "CVEs": {
+                        "CVE-2023-42969": false,
                         "CVE-2023-40412": false,
                         "CVE-2023-40409": false,
                         "CVE-2023-40410": false,
@@ -7712,6 +7727,7 @@
                         "CVE-2023-40420": false,
                         "CVE-2023-41968": false,
                         "CVE-2023-40395": false,
+                        "CVE-2023-42961": false,
                         "CVE-2023-41984": false,
                         "CVE-2023-41992": true,
                         "CVE-2023-41073": false,
@@ -7723,7 +7739,7 @@
                     "ActivelyExploitedCVEs": [
                         "CVE-2023-41992"
                     ],
-                    "UniqueCVEsCount": 16,
+                    "UniqueCVEsCount": 18,
                     "DaysSincePreviousRelease": 10
                 },
                 {
