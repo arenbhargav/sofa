@@ -752,9 +752,11 @@
             "CVE-2023-23514": false,
             "CVE-2023-23524": false,
             "CVE-2023-23522": false,
-            "CVE-2023-23529": false
+            "CVE-2023-23529": true
         },
-        "ActivelyExploitedCVEs": [],
+        "ActivelyExploitedCVEs": [
+            "CVE-2023-23529"
+        ],
         "UniqueCVEsCount": 4,
         "DaysSincePreviousRelease": 21
     },
