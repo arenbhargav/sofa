@@ -1,5 +1,5 @@
 {
-    "UpdateHash": "a6af65d9a062e7d08dbdb72c753c9908d5f0fabe5a3c183af9208077a3a3bdf8",
+    "UpdateHash": "8f3baeecda7fff368d85601d1542f97852c437ee077a9df50fde34a6e1c4df0f",
     "OSVersions": [
         {
             "OSVersion": "18",
@@ -2347,13 +2347,10 @@
                     "SecurityInfo": "https://support.apple.com/kb/HT213720",
                     "SupportedDevices": [],
                     "CVEs": {
-                        "CVE-2023-28206": true,
-                        "CVE-2023-28205": true
+                        "CVE-2023-28206": false,
+                        "CVE-2023-28205": false
                     },
-                    "ActivelyExploitedCVEs": [
-                        "CVE-2023-28206",
-                        "CVE-2023-28205"
-                    ],
+                    "ActivelyExploitedCVEs": [],
                     "UniqueCVEsCount": 2,
                     "DaysSincePreviousRelease": 11
                 },
