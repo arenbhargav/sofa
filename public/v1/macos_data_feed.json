@@ -1,5 +1,5 @@
 {
-    "UpdateHash": "a39e171f65e393d29ebb4d8be06b00699f85ef002f5ac20a32009e6febce4100",
+    "UpdateHash": "970b4a98c9e2b595f82c8e47cd669d556cc2d0abcc1b4dbf09ee0678ee428613",
     "OSVersions": [
         {
             "OSVersion": "Sequoia 15",
@@ -7,7 +7,7 @@
                 "ProductVersion": "15.5",
                 "Build": "24F74",
                 "ReleaseDate": "2025-05-12T00:00:00Z",
-                "ExpirationDate": "2025-08-27T00:00:00Z",
+                "ExpirationDate": "2025-08-28T00:00:00Z",
                 "SupportedDevices": [
                     "J132AP",
                     "J137AP",
@@ -1548,7 +1548,7 @@
                 "ProductVersion": "14.7.6",
                 "Build": "23H626",
                 "ReleaseDate": "2025-05-12T00:00:00Z",
-                "ExpirationDate": "2025-08-27T00:00:00Z",
+                "ExpirationDate": "2025-08-28T00:00:00Z",
                 "SupportedDevices": [
                     "J132AP",
                     "J137AP",
@@ -3962,7 +3962,7 @@
                 "ProductVersion": "13.7.6",
                 "Build": "22H625",
                 "ReleaseDate": "2025-05-12T00:00:00Z",
-                "ExpirationDate": "2025-08-27T00:00:00Z",
+                "ExpirationDate": "2025-08-28T00:00:00Z",
                 "SupportedDevices": [
                     "J132AP",
                     "J137AP",
@@ -6610,7 +6610,7 @@
                         "CVE-2023-0512": false,
                         "CVE-2023-32370": false,
                         "CVE-2023-28198": false,
-                        "CVE-2023-32435": true,
+                        "CVE-2023-32435": false,
                         "CVE-2023-27932": false,
                         "CVE-2023-27954": false,
                         "CVE-2014-1745": false,
@@ -6618,9 +6618,7 @@
                         "CVE-2023-28201": false,
                         "CVE-2023-27944": false
                     },
-                    "ActivelyExploitedCVEs": [
-                        "CVE-2023-32435"
-                    ],
+                    "ActivelyExploitedCVEs": [],
                     "UniqueCVEsCount": 96,
                     "DaysSincePreviousRelease": 42
                 },
@@ -7216,7 +7214,7 @@
                 "ProductVersion": "12.7.6",
                 "Build": "21H1320",
                 "ReleaseDate": "2024-07-29T00:00:00Z",
-                "ExpirationDate": "2025-08-27T00:00:00Z",
+                "ExpirationDate": "2025-08-28T00:00:00Z",
                 "SupportedDevices": [
                     "J132AP",
                     "J137AP",
