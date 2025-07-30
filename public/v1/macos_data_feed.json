@@ -1,5 +1,5 @@
 {
-    "UpdateHash": "64891d0803f3f1a8bebcb686c2fb017b82fbe2a6258ab91cf470f001fe6e614e",
+    "UpdateHash": "03c7b29feb0e5a686ecd46ea70ee2943718a31c48cdc786c248264a88e20e281",
     "OSVersions": [
         {
             "OSVersion": "Sequoia 15",
@@ -7,7 +7,7 @@
                 "ProductVersion": "15.6",
                 "Build": "24G84",
                 "ReleaseDate": "2025-07-29T00:00:00Z",
-                "ExpirationDate": "2025-10-27T00:00:00Z",
+                "ExpirationDate": "2025-10-28T00:00:00Z",
                 "SupportedDevices": [
                     "J132AP",
                     "J137AP",
@@ -420,6 +420,7 @@
                         "CVE-2025-30443": false,
                         "CVE-2025-31226": false,
                         "CVE-2025-31232": false,
+                        "CVE-2025-24224": false,
                         "CVE-2025-31241": false,
                         "CVE-2025-31219": false,
                         "CVE-2024-8176": false,
@@ -456,7 +457,7 @@
                         "CVE-2025-31257": false
                     },
                     "ActivelyExploitedCVEs": [],
-                    "UniqueCVEsCount": 50,
+                    "UniqueCVEsCount": 51,
                     "DaysSincePreviousRelease": 26
                 },
                 {
@@ -613,6 +614,7 @@
                         "CVE-2025-24239": false,
                         "CVE-2025-24233": false,
                         "CVE-2025-30443": false,
+                        "CVE-2025-43205": false,
                         "CVE-2025-24244": false,
                         "CVE-2025-24243": false,
                         "CVE-2025-30430": false,
@@ -705,6 +707,7 @@
                         "CVE-2025-30471": false,
                         "CVE-2025-24250": false,
                         "CVE-2025-30438": false,
+                        "CVE-2025-43184": false,
                         "CVE-2025-30465": false,
                         "CVE-2025-24280": false,
                         "CVE-2025-31194": false,
@@ -752,7 +755,7 @@
                         "CVE-2025-31198": false
                     },
                     "ActivelyExploitedCVEs": [],
-                    "UniqueCVEsCount": 153,
+                    "UniqueCVEsCount": 155,
                     "DaysSincePreviousRelease": 20
                 },
                 {
@@ -1746,7 +1749,7 @@
                 "ProductVersion": "14.7.7",
                 "Build": "23H723",
                 "ReleaseDate": "2025-07-29T00:00:00Z",
-                "ExpirationDate": "2025-10-27T00:00:00Z",
+                "ExpirationDate": "2025-10-28T00:00:00Z",
                 "SupportedDevices": [
                     "J132AP",
                     "J137AP",
@@ -2171,6 +2174,7 @@
                         "CVE-2025-24231": false,
                         "CVE-2025-24233": false,
                         "CVE-2025-30443": false,
+                        "CVE-2025-43205": false,
                         "CVE-2025-24243": false,
                         "CVE-2025-24244": false,
                         "CVE-2025-30460": false,
@@ -2264,7 +2268,7 @@
                     "ActivelyExploitedCVEs": [
                         "CVE-2025-24085"
                     ],
-                    "UniqueCVEsCount": 109,
+                    "UniqueCVEsCount": 110,
                     "DaysSincePreviousRelease": 49
                 },
                 {
@@ -4300,7 +4304,7 @@
                 "ProductVersion": "13.7.7",
                 "Build": "22H722",
                 "ReleaseDate": "2025-07-29T00:00:00Z",
-                "ExpirationDate": "2025-10-27T00:00:00Z",
+                "ExpirationDate": "2025-10-28T00:00:00Z",
                 "SupportedDevices": [
                     "J132AP",
                     "J137AP",
@@ -7679,7 +7683,7 @@
                 "ProductVersion": "12.7.6",
                 "Build": "21H1320",
                 "ReleaseDate": "2024-07-29T00:00:00Z",
-                "ExpirationDate": "2025-10-27T00:00:00Z",
+                "ExpirationDate": "2025-10-28T00:00:00Z",
                 "SupportedDevices": [
                     "J132AP",
                     "J137AP",
