@@ -1,9 +1,21 @@
 {
     "latest_etag": {
-        "LastCheck": "2025-08-14T17:16:46+00:00Z",
-        "UpdateHash": "cc06b55d41bfd54ccb3d61ecba30086eefecf1bc216e3a235314a19581d902e5"
+        "LastCheck": "2025-08-14T18:27:43+00:00Z",
+        "UpdateHash": "16ce084f5ff47d1600d3a663801b22f20a290194ac4d553a3f58e47e3ae8741d"
     },
     "log": [
+        {
+            "timestamp": "2025-08-14T18:27:43+00:00Z",
+            "new_etag": "16ce084f5ff47d1600d3a663801b22f20a290194ac4d553a3f58e47e3ae8741d",
+            "status": "success (200)",
+            "previous_etag": "16ce084f5ff47d1600d3a663801b22f20a290194ac4d553a3f58e47e3ae8741d"
+        },
+        {
+            "timestamp": "2025-08-14T18:26:50+00:00Z",
+            "new_etag": "16ce084f5ff47d1600d3a663801b22f20a290194ac4d553a3f58e47e3ae8741d",
+            "status": "success (200)",
+            "previous_etag": "cc06b55d41bfd54ccb3d61ecba30086eefecf1bc216e3a235314a19581d902e5"
+        },
         {
             "timestamp": "2025-08-14T17:16:46+00:00Z",
             "new_etag": "cc06b55d41bfd54ccb3d61ecba30086eefecf1bc216e3a235314a19581d902e5",
@@ -48,18 +60,6 @@
         },
         {
             "timestamp": "2025-08-14T08:48:49+00:00Z",
-            "new_etag": "cc06b55d41bfd54ccb3d61ecba30086eefecf1bc216e3a235314a19581d902e5",
-            "status": "success (200)",
-            "previous_etag": "cc06b55d41bfd54ccb3d61ecba30086eefecf1bc216e3a235314a19581d902e5"
-        },
-        {
-            "timestamp": "2025-08-14T04:49:59+00:00Z",
-            "new_etag": "cc06b55d41bfd54ccb3d61ecba30086eefecf1bc216e3a235314a19581d902e5",
-            "status": "success (200)",
-            "previous_etag": "cc06b55d41bfd54ccb3d61ecba30086eefecf1bc216e3a235314a19581d902e5"
-        },
-        {
-            "timestamp": "2025-08-14T04:49:41+00:00Z",
             "new_etag": "cc06b55d41bfd54ccb3d61ecba30086eefecf1bc216e3a235314a19581d902e5",
             "status": "success (200)",
             "previous_etag": "cc06b55d41bfd54ccb3d61ecba30086eefecf1bc216e3a235314a19581d902e5"
