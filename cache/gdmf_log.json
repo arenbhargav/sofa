@@ -1,9 +1,21 @@
 {
     "latest_etag": {
-        "LastCheck": "2025-09-24T20:37:51+00:00Z",
-        "UpdateHash": "d3b3d57332f4f9a80b358844b6a539225dbcaf53f1416f0f75200e9ae7441ea9"
+        "LastCheck": "2025-09-25T02:10:38+00:00Z",
+        "UpdateHash": "cb809695b6676c12018c5f30adbd150b7659df6b61b94bc4a6b0627f341f1244"
     },
     "log": [
+        {
+            "timestamp": "2025-09-25T02:10:38+00:00Z",
+            "new_etag": "cb809695b6676c12018c5f30adbd150b7659df6b61b94bc4a6b0627f341f1244",
+            "status": "success (200)",
+            "previous_etag": "cb809695b6676c12018c5f30adbd150b7659df6b61b94bc4a6b0627f341f1244"
+        },
+        {
+            "timestamp": "2025-09-25T02:09:40+00:00Z",
+            "new_etag": "cb809695b6676c12018c5f30adbd150b7659df6b61b94bc4a6b0627f341f1244",
+            "status": "success (200)",
+            "previous_etag": "d3b3d57332f4f9a80b358844b6a539225dbcaf53f1416f0f75200e9ae7441ea9"
+        },
         {
             "timestamp": "2025-09-24T20:37:51+00:00Z",
             "new_etag": "d3b3d57332f4f9a80b358844b6a539225dbcaf53f1416f0f75200e9ae7441ea9",
@@ -48,18 +60,6 @@
         },
         {
             "timestamp": "2025-09-24T18:22:42+00:00Z",
-            "new_etag": "d3b3d57332f4f9a80b358844b6a539225dbcaf53f1416f0f75200e9ae7441ea9",
-            "status": "success (200)",
-            "previous_etag": "d3b3d57332f4f9a80b358844b6a539225dbcaf53f1416f0f75200e9ae7441ea9"
-        },
-        {
-            "timestamp": "2025-09-24T17:15:54+00:00Z",
-            "new_etag": "d3b3d57332f4f9a80b358844b6a539225dbcaf53f1416f0f75200e9ae7441ea9",
-            "status": "success (200)",
-            "previous_etag": "d3b3d57332f4f9a80b358844b6a539225dbcaf53f1416f0f75200e9ae7441ea9"
-        },
-        {
-            "timestamp": "2025-09-24T17:14:54+00:00Z",
             "new_etag": "d3b3d57332f4f9a80b358844b6a539225dbcaf53f1416f0f75200e9ae7441ea9",
             "status": "success (200)",
             "previous_etag": "d3b3d57332f4f9a80b358844b6a539225dbcaf53f1416f0f75200e9ae7441ea9"
