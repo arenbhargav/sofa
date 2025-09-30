@@ -1,5 +1,5 @@
 {
-    "UpdateHash": "8ae650e113ddb3548a659a88415592766968a6e0aa71058c9d24364791800f3c",
+    "UpdateHash": "3f478cdce9ae35e49db8c19575b2f4aae114bc1eceff5f42e1938a3916eb6ad1",
     "OSVersions": [
         {
             "OSVersion": "Sequoia 15",
@@ -1989,12 +1989,10 @@
                     "VMA2MACOSAP",
                     "VMM-x86_64"
                 ],
-                "SecurityInfo": "https://support.apple.com/en-ca/125330",
-                "CVEs": {
-                    "CVE-2025-43400": false
-                },
+                "SecurityInfo": "",
+                "UniqueCVEsCount": 0,
                 "ActivelyExploitedCVEs": [],
-                "UniqueCVEsCount": 1
+                "CVEs": {}
             },
             "SecurityReleases": [
                 {
