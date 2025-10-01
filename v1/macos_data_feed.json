@@ -1,5 +1,5 @@
 {
-    "UpdateHash": "2d068caec332953cc540051a7a56e24ab9159cbc44f451e8d52b0506949a8b2f",
+    "UpdateHash": "db965d8f5ead057d75f5d73a646fef943b16c6da8b3e305692dfcc7bc70f44b9",
     "OSVersions": [
         {
             "OSVersion": "Sequoia 15",
@@ -7,7 +7,7 @@
                 "ProductVersion": "15.7.1",
                 "Build": "24G231",
                 "ReleaseDate": "2025-09-29T00:00:00Z",
-                "ExpirationDate": "2025-12-29T00:00:00Z",
+                "ExpirationDate": "2025-12-30T00:00:00Z",
                 "SupportedDevices": [
                     "J132AP",
                     "J137AP",
@@ -77,31 +77,12 @@
                     "VMA2MACOSAP",
                     "VMM-x86_64"
                 ],
-                "SecurityInfo": "https://support.apple.com/kb/HT213490",
+                "SecurityInfo": "https://support.apple.com/en-ca/125329",
                 "CVEs": {
-                    "CVE-2022-32932": false,
-                    "CVE-2022-42798": false,
-                    "CVE-2022-32929": false,
-                    "CVE-2022-32935": false,
-                    "CVE-2022-32939": false,
-                    "CVE-2022-32949": false,
-                    "CVE-2022-32944": false,
-                    "CVE-2022-42803": false,
-                    "CVE-2022-32926": false,
-                    "CVE-2022-42827": true,
-                    "CVE-2022-42801": false,
-                    "CVE-2022-42810": false,
-                    "CVE-2022-32941": false,
-                    "CVE-2022-42817": false,
-                    "CVE-2022-32923": false,
-                    "CVE-2022-32927": false,
-                    "CVE-2022-37434": false,
-                    "CVE-2022-42800": false
+                    "CVE-2025-43400": false
                 },
-                "ActivelyExploitedCVEs": [
-                    "CVE-2022-42827"
-                ],
-                "UniqueCVEsCount": 18
+                "ActivelyExploitedCVEs": [],
+                "UniqueCVEsCount": 1
             },
             "SecurityReleases": [
                 {
@@ -1949,7 +1930,7 @@
                 "ProductVersion": "14.8.1",
                 "Build": "23J30",
                 "ReleaseDate": "2025-09-29T00:00:00Z",
-                "ExpirationDate": "2025-12-29T00:00:00Z",
+                "ExpirationDate": "2025-12-30T00:00:00Z",
                 "SupportedDevices": [
                     "J132AP",
                     "J137AP",
@@ -2008,10 +1989,12 @@
                     "VMA2MACOSAP",
                     "VMM-x86_64"
                 ],
-                "SecurityInfo": "",
-                "UniqueCVEsCount": 0,
+                "SecurityInfo": "https://support.apple.com/en-ca/125330",
+                "CVEs": {
+                    "CVE-2025-43400": false
+                },
                 "ActivelyExploitedCVEs": [],
-                "CVEs": {}
+                "UniqueCVEsCount": 1
             },
             "SecurityReleases": [
                 {
@@ -4711,7 +4694,7 @@
                 "ProductVersion": "13.7.8",
                 "Build": "22H730",
                 "ReleaseDate": "2025-08-20T00:00:00Z",
-                "ExpirationDate": "2025-12-29T00:00:00Z",
+                "ExpirationDate": "2025-12-30T00:00:00Z",
                 "SupportedDevices": [
                     "J132AP",
                     "J137AP",
@@ -8127,7 +8110,7 @@
                 "ProductVersion": "12.7.6",
                 "Build": "21H1320",
                 "ReleaseDate": "2024-07-29T00:00:00Z",
-                "ExpirationDate": "2025-12-29T00:00:00Z",
+                "ExpirationDate": "2025-12-30T00:00:00Z",
                 "SupportedDevices": [
                     "J132AP",
                     "J137AP",
@@ -10752,8 +10735,8 @@
         "ReleaseDate": "2025-08-05T18:40:16Z"
     },
     "XProtectPlistConfigData": {
-        "com.apple.XProtect": "5316",
-        "ReleaseDate": "2025-09-23T18:42:55Z"
+        "com.apple.XProtect": "5317",
+        "ReleaseDate": "2025-09-30T21:51:37Z"
     },
     "Models": {
         "Mac15,13": {
