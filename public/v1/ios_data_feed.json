@@ -1,5 +1,5 @@
 {
-    "UpdateHash": "3ac7d234f2a2884799f4ffe84df21a76de9c2e22207ca5a1789e5d817c59a322",
+    "UpdateHash": "bd32b62b8a26b1e06b94059e46522b63c8235963ad0e315d4252785475e87152",
     "OSVersions": [
         {
             "OSVersion": "18",
@@ -7,7 +7,7 @@
                 "ProductVersion": "18.7.1",
                 "Build": "22H6031",
                 "ReleaseDate": "2025-09-29T00:00:00Z",
-                "ExpirationDate": "2026-02-01T00:00:00Z",
+                "ExpirationDate": "2026-02-02T00:00:00Z",
                 "SupportedDevices": [
                     "iPad11,1",
                     "iPad11,2",
@@ -292,6 +292,7 @@
                         "CVE-2025-43349": false,
                         "CVE-2025-43302": false,
                         "CVE-2025-43359": false,
+                        "CVE-2025-43345": false,
                         "CVE-2025-43362": false,
                         "CVE-2025-43299": false,
                         "CVE-2025-43295": false,
@@ -302,7 +303,7 @@
                         "CVE-2025-43342": false
                     },
                     "ActivelyExploitedCVEs": [],
-                    "UniqueCVEsCount": 12,
+                    "UniqueCVEsCount": 13,
                     "DaysSincePreviousRelease": 26
                 },
                 {
@@ -857,7 +858,7 @@
                 "ProductVersion": "17.7.10",
                 "Build": "21H450",
                 "ReleaseDate": "2025-08-20T00:00:00Z",
-                "ExpirationDate": "2026-02-01T00:00:00Z",
+                "ExpirationDate": "2026-02-02T00:00:00Z",
                 "SupportedDevices": [
                     "iPad7,1",
                     "iPad7,2",
@@ -1798,7 +1799,7 @@
                 "ProductVersion": "16.7.12",
                 "Build": "20H6364",
                 "ReleaseDate": "2025-09-15T00:00:00Z",
-                "ExpirationDate": "2026-02-01T00:00:00Z",
+                "ExpirationDate": "2026-02-02T00:00:00Z",
                 "SupportedDevices": [
                     "iPad6,11",
                     "iPad6,12",
