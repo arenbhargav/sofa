@@ -1244,6 +1244,7 @@
             "CVE-2023-38611": false,
             "CVE-2023-37450": true,
             "CVE-2023-42866": false,
+            "CVE-2023-43000": false,
             "CVE-2023-38597": false,
             "CVE-2023-38133": false
         },
@@ -1251,7 +1252,7 @@
             "CVE-2023-38606",
             "CVE-2023-37450"
         ],
-        "UniqueCVEsCount": 77,
+        "UniqueCVEsCount": 78,
         "DaysSincePreviousRelease": 12
     },
     {
