@@ -1,5 +1,5 @@
 {
-    "UpdateHash": "8d464ec9a5495b33f62c2c31b20df55d5f1c247910b65061e079d8d5b418a1d6",
+    "UpdateHash": "f5d05677bab8969a2bc856447065fe626ba4b6cc3cb389581850021547d245aa",
     "OSVersions": [
         {
             "OSVersion": "18",
@@ -463,6 +463,7 @@
                         "CVE-2025-31245": false,
                         "CVE-2025-31234": false,
                         "CVE-2025-31221": false,
+                        "CVE-2025-31242": false,
                         "CVE-2025-24213": false,
                         "CVE-2025-31223": false,
                         "CVE-2025-31238": false,
@@ -472,10 +473,12 @@
                         "CVE-2025-31215": false,
                         "CVE-2025-31206": false,
                         "CVE-2025-31205": false,
-                        "CVE-2025-31257": false
+                        "CVE-2025-31257": false,
+                        "CVE-2025-31216": false,
+                        "CVE-2025-43374": false
                     },
                     "ActivelyExploitedCVEs": [],
-                    "UniqueCVEsCount": 34,
+                    "UniqueCVEsCount": 37,
                     "DaysSincePreviousRelease": 26
                 },
                 {
