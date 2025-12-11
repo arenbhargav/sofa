@@ -1,9 +1,21 @@
 {
     "latest_etag": {
-        "LastCheck": "2025-12-10T20:46:13+00:00Z",
-        "UpdateHash": "80a768e1ff5d332555fc51995213ab9e8bf1f26d6c1a9e73ab7b29ab2dbd24ec"
+        "LastCheck": "2025-12-11T02:28:06+00:00Z",
+        "UpdateHash": "b656aef64f8c8f859fd6cf3bd88172b20885836ab85f1f006fda49fa7abe5d64"
     },
     "log": [
+        {
+            "timestamp": "2025-12-11T02:28:06+00:00Z",
+            "new_etag": "b656aef64f8c8f859fd6cf3bd88172b20885836ab85f1f006fda49fa7abe5d64",
+            "status": "success (200)",
+            "previous_etag": "b656aef64f8c8f859fd6cf3bd88172b20885836ab85f1f006fda49fa7abe5d64"
+        },
+        {
+            "timestamp": "2025-12-11T02:27:02+00:00Z",
+            "new_etag": "b656aef64f8c8f859fd6cf3bd88172b20885836ab85f1f006fda49fa7abe5d64",
+            "status": "success (200)",
+            "previous_etag": "80a768e1ff5d332555fc51995213ab9e8bf1f26d6c1a9e73ab7b29ab2dbd24ec"
+        },
         {
             "timestamp": "2025-12-10T20:46:13+00:00Z",
             "new_etag": "80a768e1ff5d332555fc51995213ab9e8bf1f26d6c1a9e73ab7b29ab2dbd24ec",
@@ -48,18 +60,6 @@
         },
         {
             "timestamp": "2025-12-10T18:27:59+00:00Z",
-            "new_etag": "80a768e1ff5d332555fc51995213ab9e8bf1f26d6c1a9e73ab7b29ab2dbd24ec",
-            "status": "success (200)",
-            "previous_etag": "80a768e1ff5d332555fc51995213ab9e8bf1f26d6c1a9e73ab7b29ab2dbd24ec"
-        },
-        {
-            "timestamp": "2025-12-10T17:21:00+00:00Z",
-            "new_etag": "80a768e1ff5d332555fc51995213ab9e8bf1f26d6c1a9e73ab7b29ab2dbd24ec",
-            "status": "success (200)",
-            "previous_etag": "80a768e1ff5d332555fc51995213ab9e8bf1f26d6c1a9e73ab7b29ab2dbd24ec"
-        },
-        {
-            "timestamp": "2025-12-10T17:20:23+00:00Z",
             "new_etag": "80a768e1ff5d332555fc51995213ab9e8bf1f26d6c1a9e73ab7b29ab2dbd24ec",
             "status": "success (200)",
             "previous_etag": "80a768e1ff5d332555fc51995213ab9e8bf1f26d6c1a9e73ab7b29ab2dbd24ec"
