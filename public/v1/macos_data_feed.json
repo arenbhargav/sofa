@@ -1,5 +1,5 @@
 {
-    "UpdateHash": "d0e48a87831c850dbe9d6e3267ad47bb891c873a55d22162ac4aa6c8ce3e8cce",
+    "UpdateHash": "812c7e6e29ac2dbdf5622c3bcea57b65441d142d941d5571cea6c82329c01cee",
     "OSVersions": [
         {
             "OSVersion": "Sequoia 15",
@@ -12255,13 +12255,6 @@
                 "url": "https://swcdn.apple.com/content/downloads/17/41/093-34000-A_IVOM0TNC43/plnlr5g9hfkg3fiwr399h1eso63m8vhiqn/InstallAssistant.pkg"
             },
             {
-                "title": "macOS Sequoia",
-                "version": "15.6.1",
-                "build": "24G90",
-                "apple_slug": "093-10756",
-                "url": "https://swcdn.apple.com/content/downloads/26/59/093-10756-A_RD5LVY0R3G/7a96asv0xoamt1fk0xxnqy8jffdyauooaq/InstallAssistant.pkg"
-            },
-            {
                 "title": "macOS Sonoma",
                 "version": "14.8.3",
                 "build": "23J220",
@@ -12288,13 +12281,6 @@
                 "build": "23J21",
                 "apple_slug": "093-33776",
                 "url": "https://swcdn.apple.com/content/downloads/34/53/093-33776-A_M0RZWTX3HW/ee1446bq7ipokhkad1vx891y7ld0880o0f/InstallAssistant.pkg"
-            },
-            {
-                "title": "macOS Sonoma",
-                "version": "14.7.8",
-                "build": "23H730",
-                "apple_slug": "093-22120",
-                "url": "https://swcdn.apple.com/content/downloads/22/09/093-22120-A_SNSS23POX3/je630e1ftvi88tqvq9jxcgfb5tn9tdrsme/InstallAssistant.pkg"
             },
             {
                 "title": "macOS Ventura",
