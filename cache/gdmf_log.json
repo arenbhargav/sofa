@@ -1,9 +1,21 @@
 {
     "latest_etag": {
-        "LastCheck": "2025-12-27T08:47:03+00:00Z",
+        "LastCheck": "2025-12-27T13:04:46+00:00Z",
         "UpdateHash": "eca5c40e8321aae52de77fa7853161cab90dec907e378b9721b3eb12e8f775f9"
     },
     "log": [
+        {
+            "timestamp": "2025-12-27T13:04:46+00:00Z",
+            "new_etag": "eca5c40e8321aae52de77fa7853161cab90dec907e378b9721b3eb12e8f775f9",
+            "status": "success (200)",
+            "previous_etag": "eca5c40e8321aae52de77fa7853161cab90dec907e378b9721b3eb12e8f775f9"
+        },
+        {
+            "timestamp": "2025-12-27T13:04:22+00:00Z",
+            "new_etag": "eca5c40e8321aae52de77fa7853161cab90dec907e378b9721b3eb12e8f775f9",
+            "status": "success (200)",
+            "previous_etag": "eca5c40e8321aae52de77fa7853161cab90dec907e378b9721b3eb12e8f775f9"
+        },
         {
             "timestamp": "2025-12-27T08:47:03+00:00Z",
             "new_etag": "eca5c40e8321aae52de77fa7853161cab90dec907e378b9721b3eb12e8f775f9",
@@ -48,18 +60,6 @@
         },
         {
             "timestamp": "2025-12-26T20:40:42+00:00Z",
-            "new_etag": "7979a82d045f417aeda25cc6a118b96d95ac2b3981ddd3ee383456bb6e3867e1",
-            "status": "success (200)",
-            "previous_etag": "7979a82d045f417aeda25cc6a118b96d95ac2b3981ddd3ee383456bb6e3867e1"
-        },
-        {
-            "timestamp": "2025-12-26T20:20:33+00:00Z",
-            "new_etag": "7979a82d045f417aeda25cc6a118b96d95ac2b3981ddd3ee383456bb6e3867e1",
-            "status": "success (200)",
-            "previous_etag": "7979a82d045f417aeda25cc6a118b96d95ac2b3981ddd3ee383456bb6e3867e1"
-        },
-        {
-            "timestamp": "2025-12-26T20:20:00+00:00Z",
             "new_etag": "7979a82d045f417aeda25cc6a118b96d95ac2b3981ddd3ee383456bb6e3867e1",
             "status": "success (200)",
             "previous_etag": "7979a82d045f417aeda25cc6a118b96d95ac2b3981ddd3ee383456bb6e3867e1"
