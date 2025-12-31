@@ -1,9 +1,21 @@
 {
     "latest_etag": {
-        "LastCheck": "2025-12-30T20:43:27+00:00Z",
-        "UpdateHash": "467c2fdc054e2cb50eb4b7f8415f02acd05374215edc8755194a8bdd81877137"
+        "LastCheck": "2025-12-31T02:29:22+00:00Z",
+        "UpdateHash": "29b96842152e374a9558b6e31c6d73bc53849b57d9c9163b78c2a6dba72c71b6"
     },
     "log": [
+        {
+            "timestamp": "2025-12-31T02:29:22+00:00Z",
+            "new_etag": "29b96842152e374a9558b6e31c6d73bc53849b57d9c9163b78c2a6dba72c71b6",
+            "status": "success (200)",
+            "previous_etag": "29b96842152e374a9558b6e31c6d73bc53849b57d9c9163b78c2a6dba72c71b6"
+        },
+        {
+            "timestamp": "2025-12-31T02:28:44+00:00Z",
+            "new_etag": "29b96842152e374a9558b6e31c6d73bc53849b57d9c9163b78c2a6dba72c71b6",
+            "status": "success (200)",
+            "previous_etag": "467c2fdc054e2cb50eb4b7f8415f02acd05374215edc8755194a8bdd81877137"
+        },
         {
             "timestamp": "2025-12-30T20:43:27+00:00Z",
             "new_etag": "467c2fdc054e2cb50eb4b7f8415f02acd05374215edc8755194a8bdd81877137",
@@ -48,18 +60,6 @@
         },
         {
             "timestamp": "2025-12-30T18:28:49+00:00Z",
-            "new_etag": "467c2fdc054e2cb50eb4b7f8415f02acd05374215edc8755194a8bdd81877137",
-            "status": "success (200)",
-            "previous_etag": "467c2fdc054e2cb50eb4b7f8415f02acd05374215edc8755194a8bdd81877137"
-        },
-        {
-            "timestamp": "2025-12-30T17:19:19+00:00Z",
-            "new_etag": "467c2fdc054e2cb50eb4b7f8415f02acd05374215edc8755194a8bdd81877137",
-            "status": "success (200)",
-            "previous_etag": "467c2fdc054e2cb50eb4b7f8415f02acd05374215edc8755194a8bdd81877137"
-        },
-        {
-            "timestamp": "2025-12-30T17:18:58+00:00Z",
             "new_etag": "467c2fdc054e2cb50eb4b7f8415f02acd05374215edc8755194a8bdd81877137",
             "status": "success (200)",
             "previous_etag": "467c2fdc054e2cb50eb4b7f8415f02acd05374215edc8755194a8bdd81877137"
