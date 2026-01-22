@@ -13,7 +13,7 @@
       <link>https://sofa.macadmins.io/v1/rss_feed.xml</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Thu, 22 Jan 2026 05:02:58 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 22 Jan 2026 08:56:28 +0000</lastBuildDate>
     <item>
       <title>XProtect Plist Config 5325</title>
       <link>https://sofa.macadmins.io/</link>
@@ -357,7 +357,7 @@
     <item>
       <title>iOS 18.3 and iPadOS 18.3</title>
       <link>https://sofa.macadmins.io/</link>
-      <description>Vulnerabilities Addressed: 38&lt;br&gt;Exploited CVE(s): 1&lt;br&gt;Days to Prev. Release: 21</description>
+      <description>Vulnerabilities Addressed: 40&lt;br&gt;Exploited CVE(s): 1&lt;br&gt;Days to Prev. Release: 21</description>
       <guid isPermaLink="false">iOS_OS_18.3</guid>
       <pubDate>Mon, 27 Jan 2025 00:00:00 +0000</pubDate>
     </item>
