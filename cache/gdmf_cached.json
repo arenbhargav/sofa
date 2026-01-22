@@ -1,5 +1,5 @@
 {
-    "etag": "30ff7d87e661786d4190b3384a3d21d939d0a0ef342fb56005dcbc0176c19336",
+    "etag": "bd90e091e290027bde31981a378d97987f1a687dc3faabc32fd0f4977e0c9781",
     "data": {
         "PublicAssetSets": {
             "iOS": [
@@ -2441,7 +2441,7 @@
                     "ProductVersion": "18.7.1",
                     "Build": "22H31",
                     "PostingDate": "2025-09-29",
-                    "ExpirationDate": "2026-04-22",
+                    "ExpirationDate": "2026-02-03",
                     "SupportedDevices": [
                         "iPad11,1",
                         "iPad11,2",
@@ -3168,7 +3168,7 @@
                     "ProductVersion": "18.7.1",
                     "Build": "22H6031",
                     "PostingDate": "2025-09-29",
-                    "ExpirationDate": "2026-04-22",
+                    "ExpirationDate": "2026-02-03",
                     "SupportedDevices": [
                         "iPad11,1",
                         "iPad11,2",
