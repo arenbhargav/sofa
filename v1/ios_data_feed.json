@@ -1,5 +1,5 @@
 {
-    "UpdateHash": "8a5be9ee083762a66da2b26dbc694c1b1ea55ba70cff0a9b5c9c73226cbe7777",
+    "UpdateHash": "ca22d76c9769844b66145746691f6c46f1f82a0f3fe5c6901258ab080261e5ed",
     "OSVersions": [
         {
             "OSVersion": "18",
@@ -1818,9 +1818,9 @@
         {
             "OSVersion": "16",
             "Latest": {
-                "ProductVersion": "16.7.12",
-                "Build": "20H6364",
-                "ReleaseDate": "2025-09-15T00:00:00Z",
+                "ProductVersion": "16.7.13",
+                "Build": "20H365",
+                "ReleaseDate": "2026-01-26T00:00:00Z",
                 "ExpirationDate": "2026-04-26T00:00:00Z",
                 "SupportedDevices": [
                     "iPad6,11",
@@ -1849,20 +1849,7 @@
                     "ReleaseDate": "2025-09-15T00:00:00Z",
                     "ReleaseType": "OS",
                     "SecurityInfo": "https://support.apple.com/en-ca/125141",
-                    "SupportedDevices": [
-                        "iPad6,11",
-                        "iPad6,12",
-                        "iPad6,3",
-                        "iPad6,4",
-                        "iPad6,7",
-                        "iPad6,8",
-                        "iPhone10,1",
-                        "iPhone10,2",
-                        "iPhone10,3",
-                        "iPhone10,4",
-                        "iPhone10,5",
-                        "iPhone10,6"
-                    ],
+                    "SupportedDevices": [],
                     "CVEs": {
                         "CVE-2025-43300": true
                     },
