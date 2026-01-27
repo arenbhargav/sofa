@@ -1,5 +1,5 @@
 {
-    "UpdateHash": "ca22d76c9769844b66145746691f6c46f1f82a0f3fe5c6901258ab080261e5ed",
+    "UpdateHash": "0a7226bb286b28b74a0539fbff3ea1885e74a22db2dcbf8c69841621ec646b15",
     "OSVersions": [
         {
             "OSVersion": "18",
@@ -7,7 +7,7 @@
                 "ProductVersion": "18.7.3",
                 "Build": "22H217",
                 "ReleaseDate": "2025-12-12T00:00:00Z",
-                "ExpirationDate": "2026-04-26T00:00:00Z",
+                "ExpirationDate": "2026-04-27T00:00:00Z",
                 "SupportedDevices": [
                     "iPad11,1",
                     "iPad11,2",
@@ -72,6 +72,26 @@
                 "CVEs": {}
             },
             "SecurityReleases": [
+                {
+                    "UpdateName": "iOS 18.7.4 and iPadOS 18.7.4",
+                    "ProductName": "iOS",
+                    "ProductVersion": "18.7.4",
+                    "ReleaseDate": "2026-01-26T00:00:00Z",
+                    "ReleaseType": "OS",
+                    "SecurityInfo": "This update has no published CVE entries.",
+                    "SupportedDevices": [
+                        "iPad7,11",
+                        "iPad7,12",
+                        "iPhone11,2",
+                        "iPhone11,4",
+                        "iPhone11,6",
+                        "iPhone11,8"
+                    ],
+                    "CVEs": {},
+                    "ActivelyExploitedCVEs": [],
+                    "UniqueCVEsCount": 0,
+                    "DaysSincePreviousRelease": 45
+                },
                 {
                     "UpdateName": "iOS 18.7.3 and iPadOS 18.7.3",
                     "ProductName": "iOS",
@@ -878,7 +898,7 @@
                 "ProductVersion": "17.7.10",
                 "Build": "21H450",
                 "ReleaseDate": "2025-08-20T00:00:00Z",
-                "ExpirationDate": "2026-04-26T00:00:00Z",
+                "ExpirationDate": "2026-04-27T00:00:00Z",
                 "SupportedDevices": [
                     "iPad7,1",
                     "iPad7,2",
@@ -1821,7 +1841,7 @@
                 "ProductVersion": "16.7.13",
                 "Build": "20H365",
                 "ReleaseDate": "2026-01-26T00:00:00Z",
-                "ExpirationDate": "2026-04-26T00:00:00Z",
+                "ExpirationDate": "2026-04-27T00:00:00Z",
                 "SupportedDevices": [
                     "iPad6,11",
                     "iPad6,12",
@@ -1842,6 +1862,32 @@
                 "CVEs": {}
             },
             "SecurityReleases": [
+                {
+                    "UpdateName": "iOS 16.7.13 and iPadOS 16.7.13",
+                    "ProductName": "iOS",
+                    "ProductVersion": "16.7.13",
+                    "ReleaseDate": "2026-01-26T00:00:00Z",
+                    "ReleaseType": "OS",
+                    "SecurityInfo": "This update has no published CVE entries.",
+                    "SupportedDevices": [
+                        "iPad6,11",
+                        "iPad6,12",
+                        "iPad6,3",
+                        "iPad6,4",
+                        "iPad6,7",
+                        "iPad6,8",
+                        "iPhone10,1",
+                        "iPhone10,2",
+                        "iPhone10,3",
+                        "iPhone10,4",
+                        "iPhone10,5",
+                        "iPhone10,6"
+                    ],
+                    "CVEs": {},
+                    "ActivelyExploitedCVEs": [],
+                    "UniqueCVEsCount": 0,
+                    "DaysSincePreviousRelease": 133
+                },
                 {
                     "UpdateName": "iOS 16.7.12 and iPadOS 16.7.12",
                     "ProductName": "iOS",
