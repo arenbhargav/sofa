@@ -2538,11 +2538,9 @@
         "ReleaseType": "OS",
         "SecurityInfo": "https://support.apple.com/en-ca/125327",
         "SupportedDevices": [],
-        "CVEs": {
-            "CVE-2025-43400": false
-        },
+        "CVEs": {},
         "ActivelyExploitedCVEs": [],
-        "UniqueCVEsCount": 1,
+        "UniqueCVEsCount": 0,
         "DaysSincePreviousRelease": 14
     },
     {

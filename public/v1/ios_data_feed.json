@@ -1,5 +1,5 @@
 {
-    "UpdateHash": "0a7226bb286b28b74a0539fbff3ea1885e74a22db2dcbf8c69841621ec646b15",
+    "UpdateHash": "9524d9a43c721ca876f54c7c751bd120bbcfe38dd2679374378c6506932741fa",
     "OSVersions": [
         {
             "OSVersion": "18",
@@ -247,11 +247,9 @@
                     "ReleaseType": "OS",
                     "SecurityInfo": "https://support.apple.com/en-ca/125327",
                     "SupportedDevices": [],
-                    "CVEs": {
-                        "CVE-2025-43400": false
-                    },
+                    "CVEs": {},
                     "ActivelyExploitedCVEs": [],
-                    "UniqueCVEsCount": 1,
+                    "UniqueCVEsCount": 0,
                     "DaysSincePreviousRelease": 14
                 },
                 {
