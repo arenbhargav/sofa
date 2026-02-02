@@ -1,5 +1,5 @@
 {
-    "UpdateHash": "3824a96d5785118e4a06477dd367e7c01ac905f0ddcf7ed7432f447645047b95",
+    "UpdateHash": "04a85f0720e44bdd2371ef9dd0f386b79641fc937027c0a31a6e168c0596e22d",
     "OSVersions": [
         {
             "OSVersion": "18",
@@ -1838,9 +1838,9 @@
         {
             "OSVersion": "16",
             "Latest": {
-                "ProductVersion": "16.7.13",
-                "Build": "20H365",
-                "ReleaseDate": "2026-01-26T00:00:00Z",
+                "ProductVersion": "16.7.14",
+                "Build": "20H6370",
+                "ReleaseDate": "2026-02-02T00:00:00Z",
                 "ExpirationDate": "2026-05-03T00:00:00Z",
                 "SupportedDevices": [
                     "iPad6,11",
@@ -1869,20 +1869,7 @@
                     "ReleaseDate": "2026-01-26T00:00:00Z",
                     "ReleaseType": "OS",
                     "SecurityInfo": "This update has no published CVE entries.",
-                    "SupportedDevices": [
-                        "iPad6,11",
-                        "iPad6,12",
-                        "iPad6,3",
-                        "iPad6,4",
-                        "iPad6,7",
-                        "iPad6,8",
-                        "iPhone10,1",
-                        "iPhone10,2",
-                        "iPhone10,3",
-                        "iPhone10,4",
-                        "iPhone10,5",
-                        "iPhone10,6"
-                    ],
+                    "SupportedDevices": [],
                     "CVEs": {},
                     "ActivelyExploitedCVEs": [],
                     "UniqueCVEsCount": 0,
