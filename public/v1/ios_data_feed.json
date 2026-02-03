@@ -1,5 +1,5 @@
 {
-    "UpdateHash": "04a85f0720e44bdd2371ef9dd0f386b79641fc937027c0a31a6e168c0596e22d",
+    "UpdateHash": "4fe7509a6d5e1c2b63653a36d45b658aee92554a31674860162d9f71b1d48bef",
     "OSVersions": [
         {
             "OSVersion": "18",
@@ -7,7 +7,7 @@
                 "ProductVersion": "18.7.3",
                 "Build": "22H217",
                 "ReleaseDate": "2025-12-12T00:00:00Z",
-                "ExpirationDate": "2026-05-03T00:00:00Z",
+                "ExpirationDate": "2026-05-04T00:00:00Z",
                 "SupportedDevices": [
                     "iPad11,1",
                     "iPad11,2",
@@ -898,7 +898,7 @@
                 "ProductVersion": "17.7.10",
                 "Build": "21H450",
                 "ReleaseDate": "2025-08-20T00:00:00Z",
-                "ExpirationDate": "2026-05-03T00:00:00Z",
+                "ExpirationDate": "2026-05-04T00:00:00Z",
                 "SupportedDevices": [
                     "iPad7,1",
                     "iPad7,2",
@@ -1841,7 +1841,7 @@
                 "ProductVersion": "16.7.14",
                 "Build": "20H6370",
                 "ReleaseDate": "2026-02-02T00:00:00Z",
-                "ExpirationDate": "2026-05-03T00:00:00Z",
+                "ExpirationDate": "2026-05-04T00:00:00Z",
                 "SupportedDevices": [
                     "iPad6,11",
                     "iPad6,12",
@@ -1862,6 +1862,32 @@
                 "CVEs": {}
             },
             "SecurityReleases": [
+                {
+                    "UpdateName": "iOS 16.7.14 and iPadOS 16.7.14",
+                    "ProductName": "iOS",
+                    "ProductVersion": "16.7.14",
+                    "ReleaseDate": "2026-02-02T00:00:00Z",
+                    "ReleaseType": "OS",
+                    "SecurityInfo": "This update has no published CVE entries.",
+                    "SupportedDevices": [
+                        "iPad6,11",
+                        "iPad6,12",
+                        "iPad6,3",
+                        "iPad6,4",
+                        "iPad6,7",
+                        "iPad6,8",
+                        "iPhone10,1",
+                        "iPhone10,2",
+                        "iPhone10,3",
+                        "iPhone10,4",
+                        "iPhone10,5",
+                        "iPhone10,6"
+                    ],
+                    "CVEs": {},
+                    "ActivelyExploitedCVEs": [],
+                    "UniqueCVEsCount": 0,
+                    "DaysSincePreviousRelease": 7
+                },
                 {
                     "UpdateName": "iOS 16.7.13 and iPadOS 16.7.13",
                     "ProductName": "iOS",

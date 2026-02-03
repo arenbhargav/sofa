@@ -1,5 +1,5 @@
 {
-    "UpdateHash": "3977b7d81846173688e9c7e73024a6d3b6731ae1b0b482cf13e4080692ed84d5",
+    "UpdateHash": "bd843a524518263b574bb8279b13e4ec7da0d3dfb0cf141610a99bac3acfb450",
     "OSVersions": [
         {
             "OSVersion": "Sequoia 15",
@@ -7,7 +7,7 @@
                 "ProductVersion": "15.7.3",
                 "Build": "24G419",
                 "ReleaseDate": "2025-12-12T00:00:00Z",
-                "ExpirationDate": "2026-05-03T00:00:00Z",
+                "ExpirationDate": "2026-05-04T00:00:00Z",
                 "SupportedDevices": [
                     "J132AP",
                     "J137AP",
@@ -2192,7 +2192,7 @@
                 "ProductVersion": "14.8.3",
                 "Build": "23J220",
                 "ReleaseDate": "2025-12-12T00:00:00Z",
-                "ExpirationDate": "2026-05-03T00:00:00Z",
+                "ExpirationDate": "2026-05-04T00:00:00Z",
                 "SupportedDevices": [
                     "J132AP",
                     "J137AP",
@@ -5196,7 +5196,7 @@
                 "ProductVersion": "13.7.8",
                 "Build": "22H730",
                 "ReleaseDate": "2025-08-20T00:00:00Z",
-                "ExpirationDate": "2026-05-03T00:00:00Z",
+                "ExpirationDate": "2026-05-04T00:00:00Z",
                 "SupportedDevices": [
                     "J132AP",
                     "J137AP",
@@ -8618,7 +8618,7 @@
                 "ProductVersion": "12.7.6",
                 "Build": "21H1320",
                 "ReleaseDate": "2024-07-29T00:00:00Z",
-                "ExpirationDate": "2026-05-03T00:00:00Z",
+                "ExpirationDate": "2026-05-04T00:00:00Z",
                 "SupportedDevices": [
                     "J132AP",
                     "J137AP",
@@ -12276,6 +12276,13 @@
                 "build": "21H1123",
                 "apple_slug": "052-60131",
                 "url": "https://swcdn.apple.com/content/downloads/46/57/052-60131-A_KM2RH04C2D/9yzvba1uvpem2wuo95r459qno57qaizwf2/InstallAssistant.pkg"
+            },
+            {
+                "title": "macOS Big Sur",
+                "version": "11.7.11",
+                "build": "20G1443",
+                "apple_slug": "047-32248",
+                "url": "https://swcdn.apple.com/content/downloads/10/18/047-32248-A_Y7S9K47C9M/rqg3zuwb6dkofsdilmz22awvxtq2sxwr15/InstallAssistant.pkg"
             },
             {
                 "title": "macOS Big Sur",

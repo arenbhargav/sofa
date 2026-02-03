@@ -13,7 +13,14 @@
       <link>https://sofa.macadmins.io/v1/rss_feed.xml</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Mon, 02 Feb 2026 18:41:30 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 03 Feb 2026 03:17:51 +0000</lastBuildDate>
+    <item>
+      <title>iOS 16.7.14 and iPadOS 16.7.14</title>
+      <link>https://sofa.macadmins.io/</link>
+      <description>Vulnerabilities Addressed: 0&lt;br&gt;Exploited CVE(s): 0&lt;br&gt;Days to Prev. Release: 7</description>
+      <guid isPermaLink="false">iOS_OS_16.7.14</guid>
+      <pubDate>Mon, 02 Feb 2026 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>iOS 16.7.13 and iPadOS 16.7.13</title>
       <link>https://sofa.macadmins.io/</link>

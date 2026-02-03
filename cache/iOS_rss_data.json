@@ -2724,5 +2724,31 @@
         "ActivelyExploitedCVEs": [],
         "UniqueCVEsCount": 0,
         "DaysSincePreviousRelease": 133
+    },
+    {
+        "UpdateName": "iOS 16.7.14 and iPadOS 16.7.14",
+        "ProductName": "iOS",
+        "ProductVersion": "16.7.14",
+        "ReleaseDate": "2026-02-02T00:00:00Z",
+        "ReleaseType": "OS",
+        "SecurityInfo": "This update has no published CVE entries.",
+        "SupportedDevices": [
+            "iPad6,11",
+            "iPad6,12",
+            "iPad6,3",
+            "iPad6,4",
+            "iPad6,7",
+            "iPad6,8",
+            "iPhone10,1",
+            "iPhone10,2",
+            "iPhone10,3",
+            "iPhone10,4",
+            "iPhone10,5",
+            "iPhone10,6"
+        ],
+        "CVEs": {},
+        "ActivelyExploitedCVEs": [],
+        "UniqueCVEsCount": 0,
+        "DaysSincePreviousRelease": 7
     }
 ]
