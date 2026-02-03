@@ -1871,8 +1871,6 @@
             "CVE-2025-24085": true,
             "CVE-2025-24184": false,
             "CVE-2025-24111": false,
-            "CVE-2025-24089": false,
-            "CVE-2025-24090": false,
             "CVE-2025-24086": false,
             "CVE-2025-24144": false,
             "CVE-2025-24107": false,
@@ -1899,7 +1897,7 @@
         "ActivelyExploitedCVEs": [
             "CVE-2025-24085"
         ],
-        "UniqueCVEsCount": 40,
+        "UniqueCVEsCount": 38,
         "DaysSincePreviousRelease": 21
     },
     {
