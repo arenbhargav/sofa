@@ -1,5 +1,5 @@
 {
-    "UpdateHash": "8b9fb4854d2c3f36c2b1d11e1dcea89899e9188435e6b4a7be7f33d3165498c4",
+    "UpdateHash": "31650a9d411ef5a9474bd95e79164fee6e0535d6dea4b055901a0382d9303cf6",
     "OSVersions": [
         {
             "OSVersion": "Sequoia 15",
@@ -12201,27 +12201,6 @@
                 "url": "https://swcdn.apple.com/content/downloads/60/34/089-04325-A_JAKF079NR4/fjimp3su7pvbg0o6sf3kus7k989finz274/InstallAssistant.pkg"
             },
             {
-                "title": "macOS Tahoe",
-                "version": "26.0.1",
-                "build": "25A362",
-                "apple_slug": "093-50844",
-                "url": "https://swcdn.apple.com/content/downloads/27/44/093-50844-A_ADFZL6MD5J/3p92a0vzjzewywyitfwajte1w5t8t4pzts/InstallAssistant.pkg"
-            },
-            {
-                "title": "macOS Tahoe",
-                "version": "26.0.1",
-                "build": "25A8364",
-                "apple_slug": "093-49299",
-                "url": "https://swcdn.apple.com/content/downloads/37/03/093-49299-A_MZ8OHDOFLQ/d8m9w3lyshl2vrb2u1h1peyjrazmx1jrzt/InstallAssistant.pkg"
-            },
-            {
-                "title": "macOS Tahoe",
-                "version": "26.0",
-                "build": "25A8353",
-                "apple_slug": "082-71738",
-                "url": "https://swcdn.apple.com/content/downloads/04/39/082-71738-A_TBX8Q9I17N/8qtm9z10of6zskcywb7gn21cctqxwqartj/InstallAssistant.pkg"
-            },
-            {
                 "title": "macOS Sequoia",
                 "version": "15.7.3",
                 "build": "24G419",
@@ -12236,13 +12215,6 @@
                 "url": "https://swcdn.apple.com/content/downloads/23/34/093-99065-A_B4TEYIISAM/1a1ddvynvgdh82ev879kh13y2a3trwr18v/InstallAssistant.pkg"
             },
             {
-                "title": "macOS Sequoia",
-                "version": "15.7.1",
-                "build": "24G231",
-                "apple_slug": "093-52107",
-                "url": "https://swcdn.apple.com/content/downloads/38/22/093-52107-A_OOVIFW6D5T/fze2nzd9lci8ook2pmu37mw39no53j6kyi/InstallAssistant.pkg"
-            },
-            {
                 "title": "macOS Sonoma",
                 "version": "14.8.3",
                 "build": "23J220",
@@ -12255,13 +12227,6 @@
                 "build": "23J126",
                 "apple_slug": "093-92756",
                 "url": "https://swcdn.apple.com/content/downloads/43/05/093-92756-A_8KCV583EO6/rk4pkpm81lfh7ee76z8qupc8jtoo4nrde1/InstallAssistant.pkg"
-            },
-            {
-                "title": "macOS Sonoma",
-                "version": "14.8.1",
-                "build": "23J30",
-                "apple_slug": "093-53928",
-                "url": "https://swcdn.apple.com/content/downloads/35/20/093-53928-A_KHU5CMCSVU/a6n7xv7lgs90nra9g6swk8iv8qq5wp1ah3/InstallAssistant.pkg"
             },
             {
                 "title": "macOS Ventura",
