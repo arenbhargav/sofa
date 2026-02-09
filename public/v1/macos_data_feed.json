@@ -1,5 +1,5 @@
 {
-    "UpdateHash": "a5a43a63463b03d4db79690b00b2adc59e82dff37fa7e8d0c6879c7baa6a9b46",
+    "UpdateHash": "fb392be29fd66dc838f9632d46ea6f155c746187778ed1b3834dcdd5780e1daf",
     "OSVersions": [
         {
             "OSVersion": "Sequoia 15",
@@ -12234,6 +12234,13 @@
                 "build": "22H730",
                 "apple_slug": "093-22004",
                 "url": "https://swcdn.apple.com/content/downloads/09/46/093-22004-A_QNZEDC334I/phigx2zvoggml6sh79my4y51fnvgy8hix4/InstallAssistant.pkg"
+            },
+            {
+                "title": "macOS Monterey",
+                "version": "12.7.6",
+                "build": "21H1320",
+                "apple_slug": "062-40406",
+                "url": "https://swcdn.apple.com/content/downloads/24/16/062-40406-A_LQ4WW26M04/j7bl9ygay5prezturwh72ai10fvseh2uhw/InstallAssistant.pkg"
             },
             {
                 "title": "macOS Monterey",
