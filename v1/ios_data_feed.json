@@ -1,5 +1,5 @@
 {
-    "UpdateHash": "2b2c6f3ef857d401d26a83396a75129d17978f4c620695e2a929af4781779fde",
+    "UpdateHash": "010678775901e67248c240aa5ebffcd140b7974cd01b9c39238fe938fd9655b5",
     "OSVersions": [
         {
             "OSVersion": "18",
@@ -79,14 +79,7 @@
                     "ReleaseDate": "2026-01-26T00:00:00Z",
                     "ReleaseType": "OS",
                     "SecurityInfo": "This update has no published CVE entries.",
-                    "SupportedDevices": [
-                        "iPad7,11",
-                        "iPad7,12",
-                        "iPhone11,2",
-                        "iPhone11,4",
-                        "iPhone11,6",
-                        "iPhone11,8"
-                    ],
+                    "SupportedDevices": [],
                     "CVEs": {},
                     "ActivelyExploitedCVEs": [],
                     "UniqueCVEsCount": 0,

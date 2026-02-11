@@ -2699,14 +2699,7 @@
         "ReleaseDate": "2026-01-26T00:00:00Z",
         "ReleaseType": "OS",
         "SecurityInfo": "This update has no published CVE entries.",
-        "SupportedDevices": [
-            "iPad7,11",
-            "iPad7,12",
-            "iPhone11,2",
-            "iPhone11,4",
-            "iPhone11,6",
-            "iPhone11,8"
-        ],
+        "SupportedDevices": [],
         "CVEs": {},
         "ActivelyExploitedCVEs": [],
         "UniqueCVEsCount": 0,
