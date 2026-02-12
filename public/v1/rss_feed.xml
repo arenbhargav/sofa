@@ -13,7 +13,7 @@
       <link>https://sofa.macadmins.io/v1/rss_feed.xml</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Thu, 12 Feb 2026 17:56:38 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 12 Feb 2026 19:02:50 +0000</lastBuildDate>
     <item>
       <title>iOS 18.7.5 and iPadOS 18.7.5</title>
       <link>https://sofa.macadmins.io/</link>
@@ -65,7 +65,7 @@
     <item>
       <title>iOS 18.7.3 and iPadOS 18.7.3</title>
       <link>https://sofa.macadmins.io/</link>
-      <description>Vulnerabilities Addressed: 21&lt;br&gt;Exploited CVE(s): 2&lt;br&gt;Days to Prev. Release: 37</description>
+      <description>Vulnerabilities Addressed: 22&lt;br&gt;Exploited CVE(s): 2&lt;br&gt;Days to Prev. Release: 37</description>
       <guid isPermaLink="false">iOS_OS_18.7.3</guid>
       <pubDate>Fri, 12 Dec 2025 00:00:00 +0000</pubDate>
     </item>
