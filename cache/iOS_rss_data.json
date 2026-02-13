@@ -458,12 +458,16 @@
             "CVE-2023-32415": false,
             "CVE-2023-32402": false,
             "CVE-2023-32423": false,
-            "CVE-2023-32409": false,
-            "CVE-2023-28204": false,
-            "CVE-2023-32373": false,
+            "CVE-2023-32409": true,
+            "CVE-2023-28204": true,
+            "CVE-2023-32373": true,
             "CVE-2023-32389": false
         },
-        "ActivelyExploitedCVEs": [],
+        "ActivelyExploitedCVEs": [
+            "CVE-2023-32409",
+            "CVE-2023-28204",
+            "CVE-2023-32373"
+        ],
         "UniqueCVEsCount": 46,
         "DaysSincePreviousRelease": 41
     },

@@ -13,12 +13,26 @@
       <link>https://sofa.macadmins.io/v1/rss_feed.xml</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Fri, 13 Feb 2026 09:07:34 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 13 Feb 2026 13:40:29 +0000</lastBuildDate>
     <item>
       <title>iOS 18.7.5 and iPadOS 18.7.5</title>
       <link>https://sofa.macadmins.io/</link>
       <description>Vulnerabilities Addressed: 36&lt;br&gt;Exploited CVE(s): 0&lt;br&gt;Days to Prev. Release: 16</description>
       <guid isPermaLink="false">iOS_OS_18.7.5</guid>
+      <pubDate>Wed, 11 Feb 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>macOS Sonoma 14.8.4</title>
+      <link>https://sofa.macadmins.io/</link>
+      <description>Vulnerabilities Addressed: 41&lt;br&gt;Exploited CVE(s): 0&lt;br&gt;Days to Prev. Release: 61</description>
+      <guid isPermaLink="false">macOS_OS_14.8.4</guid>
+      <pubDate>Wed, 11 Feb 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>macOS Sequoia 15.7.4</title>
+      <link>https://sofa.macadmins.io/</link>
+      <description>Vulnerabilities Addressed: 35&lt;br&gt;Exploited CVE(s): 0&lt;br&gt;Days to Prev. Release: 61</description>
+      <guid isPermaLink="false">macOS_OS_15.7.4</guid>
       <pubDate>Wed, 11 Feb 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
@@ -1071,7 +1085,7 @@
     <item>
       <title>iOS 16.5 and iPadOS 16.5</title>
       <link>https://sofa.macadmins.io/</link>
-      <description>Vulnerabilities Addressed: 46&lt;br&gt;Exploited CVE(s): 0&lt;br&gt;Days to Prev. Release: 41</description>
+      <description>Vulnerabilities Addressed: 46&lt;br&gt;Exploited CVE(s): 3&lt;br&gt;Days to Prev. Release: 41</description>
       <guid isPermaLink="false">iOS_OS_16.5</guid>
       <pubDate>Thu, 18 May 2023 00:00:00 +0000</pubDate>
     </item>
