@@ -1,5 +1,5 @@
 {
-    "etag": "1e662220e40df5aedc615006be1443aeec4aaaa9b46c14e262b19f5f82c8bf92",
+    "etag": "d30b55b7438d72b573de00c6329d2555337ffb558e96bdeb6786b0e2817a2945",
     "data": {
         "PublicAssetSets": {
             "iOS": [
@@ -1502,7 +1502,7 @@
                 {
                     "ProductVersion": "26.1",
                     "Build": "23J6582",
-                    "PostingDate": "2025-11-03",
+                    "PostingDate": "2025-11-17",
                     "ExpirationDate": "2026-03-12",
                     "SupportedDevices": [
                         "AppleTV11,1",
@@ -3306,7 +3306,7 @@
                 {
                     "ProductVersion": "26.1",
                     "Build": "23J582",
-                    "PostingDate": "2025-11-03",
+                    "PostingDate": "2025-11-17",
                     "ExpirationDate": "2026-03-12",
                     "SupportedDevices": [
                         "AppleTV11,1",
