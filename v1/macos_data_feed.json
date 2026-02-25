@@ -1,5 +1,5 @@
 {
-    "UpdateHash": "0cb5546604225f9b8c190deec2d1cdc3f93551dc3a65385aa36423b1739d29d0",
+    "UpdateHash": "265643334f86bce88c64f34a88b29a78ddc655519a2bccc6befe1d91c49c7673",
     "OSVersions": [
         {
             "OSVersion": "Sequoia 15",
@@ -7,7 +7,7 @@
                 "ProductVersion": "15.7.4",
                 "Build": "24G517",
                 "ReleaseDate": "2026-02-11T00:00:00Z",
-                "ExpirationDate": "2026-05-25T00:00:00Z",
+                "ExpirationDate": "2026-05-26T00:00:00Z",
                 "SupportedDevices": [
                     "J132AP",
                     "J137AP",
@@ -2305,7 +2305,7 @@
                 "ProductVersion": "14.8.4",
                 "Build": "23J319",
                 "ReleaseDate": "2026-02-11T00:00:00Z",
-                "ExpirationDate": "2026-05-25T00:00:00Z",
+                "ExpirationDate": "2026-05-26T00:00:00Z",
                 "SupportedDevices": [
                     "J132AP",
                     "J137AP",
@@ -5441,7 +5441,7 @@
                 "ProductVersion": "13.7.8",
                 "Build": "22H730",
                 "ReleaseDate": "2025-08-20T00:00:00Z",
-                "ExpirationDate": "2026-05-25T00:00:00Z",
+                "ExpirationDate": "2026-05-26T00:00:00Z",
                 "SupportedDevices": [
                     "J132AP",
                     "J137AP",
@@ -8863,7 +8863,7 @@
                 "ProductVersion": "12.7.6",
                 "Build": "21H1320",
                 "ReleaseDate": "2024-07-29T00:00:00Z",
-                "ExpirationDate": "2026-05-25T00:00:00Z",
+                "ExpirationDate": "2026-05-26T00:00:00Z",
                 "SupportedDevices": [
                     "J132AP",
                     "J137AP",
@@ -11488,8 +11488,8 @@
         "ReleaseDate": "2026-02-17T18:10:37Z"
     },
     "XProtectPlistConfigData": {
-        "com.apple.XProtect": "5330",
-        "ReleaseDate": "2026-02-17T18:11:41Z"
+        "com.apple.XProtect": "5331",
+        "ReleaseDate": "2026-02-24T21:19:56Z"
     },
     "Models": {
         "Mac15,13": {
