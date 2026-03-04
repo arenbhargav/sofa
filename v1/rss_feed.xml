@@ -13,7 +13,14 @@
       <link>https://sofa.macadmins.io/v1/rss_feed.xml</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Wed, 04 Mar 2026 18:47:31 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 04 Mar 2026 19:37:43 +0000</lastBuildDate>
+    <item>
+      <title>iOS 18.7.6</title>
+      <link>https://sofa.macadmins.io/</link>
+      <description>Vulnerabilities Addressed: 0&lt;br&gt;Exploited CVE(s): 0&lt;br&gt;Days to Prev. Release: 21</description>
+      <guid isPermaLink="false">iOS_OS_18.7.6</guid>
+      <pubDate>Wed, 04 Mar 2026 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>XProtect Plist Config 5331</title>
       <link>https://sofa.macadmins.io/</link>

@@ -1,5 +1,5 @@
 {
-    "UpdateHash": "fa2d4aed20fe44a62f6b1b5bd49b96ab14d9ece588f9b063b9ffd0775b744d01",
+    "UpdateHash": "c5d12f7f7eafcb9673eec1a254a5b88f9b7a41e2b4a1d39e047e7a724eb9a306",
     "OSVersions": [
         {
             "OSVersion": "18",
@@ -72,6 +72,24 @@
                 "CVEs": {}
             },
             "SecurityReleases": [
+                {
+                    "UpdateName": "iOS 18.7.6",
+                    "ProductName": "iOS",
+                    "ProductVersion": "18.7.6",
+                    "ReleaseDate": "2026-03-04T00:00:00Z",
+                    "ReleaseType": "OS",
+                    "SecurityInfo": "This update has no published CVE entries.",
+                    "SupportedDevices": [
+                        "iPhone11,2",
+                        "iPhone11,4",
+                        "iPhone11,6",
+                        "iPhone11,8"
+                    ],
+                    "CVEs": {},
+                    "ActivelyExploitedCVEs": [],
+                    "UniqueCVEsCount": 0,
+                    "DaysSincePreviousRelease": 21
+                },
                 {
                     "UpdateName": "iOS 18.7.5 and iPadOS 18.7.5",
                     "ProductName": "iOS",
