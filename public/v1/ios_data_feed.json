@@ -1,5 +1,5 @@
 {
-    "UpdateHash": "c4c634f20123ea2a37d778902f383c005c786f527ed86bf5aea67d69743277d5",
+    "UpdateHash": "fa2d4aed20fe44a62f6b1b5bd49b96ab14d9ece588f9b063b9ffd0775b744d01",
     "OSVersions": [
         {
             "OSVersion": "18",
@@ -81,11 +81,7 @@
                     "SecurityInfo": "https://support.apple.com/en-ca/126347",
                     "SupportedDevices": [
                         "iPad7,11",
-                        "iPad7,12",
-                        "iPhone11,2",
-                        "iPhone11,4",
-                        "iPhone11,6",
-                        "iPhone11,8"
+                        "iPad7,12"
                     ],
                     "CVEs": {
                         "CVE-2026-20645": false,

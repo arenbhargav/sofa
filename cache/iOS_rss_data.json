@@ -2754,11 +2754,7 @@
         "SecurityInfo": "https://support.apple.com/en-ca/126347",
         "SupportedDevices": [
             "iPad7,11",
-            "iPad7,12",
-            "iPhone11,2",
-            "iPhone11,4",
-            "iPhone11,6",
-            "iPhone11,8"
+            "iPad7,12"
         ],
         "CVEs": {
             "CVE-2026-20645": false,
