@@ -1,5 +1,5 @@
 {
-    "UpdateHash": "47fb37ffb4bd1eea84fb10da77530c70d0c5c697e1d684704c2236638ff35871",
+    "UpdateHash": "a8ac1bc2c2a644ef3dc931403c0bf2488e4cf111914e6f0ed5963a4d50fc116f",
     "OSVersions": [
         {
             "OSVersion": "Sequoia 15",
@@ -12464,13 +12464,6 @@
                 "version": "15.7.5",
                 "build": "24G617",
                 "apple_slug": "047-88343",
-                "url": "https://swcdn.apple.com/content/downloads/54/48/047-88343-A_U8QBR62XSL/xzrz3906c77wp9qi06z800ryrmwzv4itk4/InstallAssistant.pkg"
-            },
-            {
-                "title": "macOS Sequoia",
-                "version": "15.7.5",
-                "build": "24G617",
-                "apple_slug": "047-88343::1",
                 "url": "https://swcdn.apple.com/content/downloads/22/62/047-88343-A_DTALRSRUUL/081xz88zzv21ymehofv353yfcuu97pfnx6/InstallAssistant.pkg"
             },
             {
