@@ -1,5 +1,5 @@
 {
-    "etag": "62b8d39c9f13bf7360dcb5a7ad6b74e33bdb31e5cededa21986ce6befab513b8",
+    "etag": "3b5ed0b0c76480aa97f813d085296bfbca05c3a655f6e82ee06d0a51533a7613",
     "data": {
         "PublicAssetSets": {
             "iOS": [
@@ -940,6 +940,28 @@
                     ]
                 }
             ],
+            "visionOS": [
+                {
+                    "ProductVersion": "26.3.1",
+                    "Build": "23N630",
+                    "PostingDate": "2026-03-02",
+                    "ExpirationDate": "2026-06-08",
+                    "SupportedDevices": [
+                        "RealityDevice14,1",
+                        "RealityDevice17,1"
+                    ]
+                },
+                {
+                    "ProductVersion": "26.3.1",
+                    "Build": "23N6630",
+                    "PostingDate": "2026-03-02",
+                    "ExpirationDate": "2026-06-08",
+                    "SupportedDevices": [
+                        "RealityDevice14,1",
+                        "RealityDevice17,1"
+                    ]
+                }
+            ],
             "macOS": [
                 {
                     "ProductVersion": "14.8.4",
@@ -1374,28 +1396,6 @@
                         "Mac-EE2EBD4B90B839A8",
                         "VMA2MACOSAP",
                         "VMM-x86_64"
-                    ]
-                }
-            ],
-            "visionOS": [
-                {
-                    "ProductVersion": "26.3.1",
-                    "Build": "23N630",
-                    "PostingDate": "2026-03-02",
-                    "ExpirationDate": "2026-06-08",
-                    "SupportedDevices": [
-                        "RealityDevice14,1",
-                        "RealityDevice17,1"
-                    ]
-                },
-                {
-                    "ProductVersion": "26.3.1",
-                    "Build": "23N6630",
-                    "PostingDate": "2026-03-02",
-                    "ExpirationDate": "2026-06-08",
-                    "SupportedDevices": [
-                        "RealityDevice14,1",
-                        "RealityDevice17,1"
                     ]
                 }
             ]
@@ -4769,6 +4769,15 @@
                         "J773sAP",
                         "VMA2MACOSAP",
                         "VMM-x86_64"
+                    ]
+                },
+                {
+                    "ProductVersion": "26.3.2",
+                    "Build": "25D2140",
+                    "PostingDate": "2026-03-10",
+                    "ExpirationDate": "2026-06-08",
+                    "SupportedDevices": [
+                        "J700AP"
                     ]
                 },
                 {
