@@ -13,14 +13,7 @@
       <link>https://sofa.macadmins.io/v1/rss_feed.xml</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Thu, 12 Mar 2026 18:53:04 +0000</lastBuildDate>
-    <item>
-      <title>iOS 16.7.15 and iPadOS 16.7.15</title>
-      <link>https://sofa.macadmins.io/</link>
-      <description>Vulnerabilities Addressed: 1&lt;br&gt;Exploited CVE(s): 0&lt;br&gt;Days to Prev. Release: 37</description>
-      <guid isPermaLink="false">iOS_OS_16.7.15</guid>
-      <pubDate>Wed, 11 Mar 2026 00:00:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Thu, 12 Mar 2026 19:41:10 +0000</lastBuildDate>
     <item>
       <title>XProtect Plist Config 5333</title>
       <link>https://sofa.macadmins.io/</link>
@@ -833,7 +826,7 @@
     <item>
       <title>iOS 17.2 and iPadOS 17.2</title>
       <link>https://sofa.macadmins.io/</link>
-      <description>Vulnerabilities Addressed: 23&lt;br&gt;Exploited CVE(s): 0&lt;br&gt;Days to Prev. Release: 11</description>
+      <description>Vulnerabilities Addressed: 24&lt;br&gt;Exploited CVE(s): 0&lt;br&gt;Days to Prev. Release: 11</description>
       <guid isPermaLink="false">iOS_OS_17.2</guid>
       <pubDate>Mon, 11 Dec 2023 00:00:00 +0000</pubDate>
     </item>

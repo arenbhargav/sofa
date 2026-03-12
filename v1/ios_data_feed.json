@@ -1,5 +1,5 @@
 {
-    "UpdateHash": "778098ddb1764705a81e50fe51f77b6516529761d31e7f33f6c814b7f426df47",
+    "UpdateHash": "4fe2deb2619a7e26f0655be4486c247bd335d451eb9820cfb4e2b6d153102cba",
     "OSVersions": [
         {
             "OSVersion": "18",
@@ -1653,10 +1653,11 @@
                         "CVE-2023-42890": false,
                         "CVE-2023-42883": false,
                         "CVE-2023-42950": false,
-                        "CVE-2023-42956": false
+                        "CVE-2023-42956": false,
+                        "CVE-2023-43010": false
                     },
                     "ActivelyExploitedCVEs": [],
-                    "UniqueCVEsCount": 23,
+                    "UniqueCVEsCount": 24,
                     "DaysSincePreviousRelease": 11
                 },
                 {
@@ -1927,34 +1928,6 @@
                 "CVEs": {}
             },
             "SecurityReleases": [
-                {
-                    "UpdateName": "iOS 16.7.15 and iPadOS 16.7.15",
-                    "ProductName": "iOS",
-                    "ProductVersion": "16.7.15",
-                    "ReleaseDate": "2026-03-11T00:00:00Z",
-                    "ReleaseType": "OS",
-                    "SecurityInfo": "https://support.apple.com/en-ca/126646",
-                    "SupportedDevices": [
-                        "iPad6,11",
-                        "iPad6,12",
-                        "iPad6,3",
-                        "iPad6,4",
-                        "iPad6,7",
-                        "iPad6,8",
-                        "iPhone10,1",
-                        "iPhone10,2",
-                        "iPhone10,3",
-                        "iPhone10,4",
-                        "iPhone10,5",
-                        "iPhone10,6"
-                    ],
-                    "CVEs": {
-                        "CVE-2023-43010": false
-                    },
-                    "ActivelyExploitedCVEs": [],
-                    "UniqueCVEsCount": 1,
-                    "DaysSincePreviousRelease": 37
-                },
                 {
                     "UpdateName": "iOS 16.7.14 and iPadOS 16.7.14",
                     "ProductName": "iOS",
