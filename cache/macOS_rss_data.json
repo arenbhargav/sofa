@@ -1901,11 +1901,10 @@
             "CVE-2023-42890": false,
             "CVE-2023-42883": false,
             "CVE-2023-42950": false,
-            "CVE-2023-42956": false,
-            "CVE-2023-43010": false
+            "CVE-2023-42956": false
         },
         "ActivelyExploitedCVEs": [],
-        "UniqueCVEsCount": 60,
+        "UniqueCVEsCount": 59,
         "DaysSincePreviousRelease": 11
     },
     {
