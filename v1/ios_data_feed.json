@@ -1,5 +1,5 @@
 {
-    "UpdateHash": "49e192ae0f91d517b16f417916ef5018d47379ebb9413b9e2cada13eb0320b0d",
+    "UpdateHash": "578c4ed21e1a094143b6116bf986e9dd8bfa2a9547c40dea1cc4b5f05b612dbf",
     "OSVersions": [
         {
             "OSVersion": "18",
@@ -1320,28 +1320,9 @@
                         "iPad7,5",
                         "iPad7,6"
                     ],
-                    "CVEs": {
-                        "CVE-2024-44171": false,
-                        "CVE-2024-44126": false,
-                        "CVE-2024-27876": false,
-                        "CVE-2024-40850": false,
-                        "CVE-2024-27880": false,
-                        "CVE-2024-44176": false,
-                        "CVE-2024-44169": false,
-                        "CVE-2024-44165": false,
-                        "CVE-2024-44191": false,
-                        "CVE-2024-40791": false,
-                        "CVE-2024-44183": false,
-                        "CVE-2024-44127": false,
-                        "CVE-2024-44158": false,
-                        "CVE-2024-40844": false,
-                        "CVE-2024-44179": false,
-                        "CVE-2024-44164": false,
-                        "CVE-2024-44184": false,
-                        "CVE-2024-27879": false
-                    },
+                    "CVEs": {},
                     "ActivelyExploitedCVEs": [],
-                    "UniqueCVEsCount": 18,
+                    "UniqueCVEsCount": 0,
                     "DaysSincePreviousRelease": 40
                 },
                 {
