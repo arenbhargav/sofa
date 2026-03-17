@@ -1568,9 +1568,28 @@
             "iPad7,5",
             "iPad7,6"
         ],
-        "CVEs": {},
+        "CVEs": {
+            "CVE-2024-44171": false,
+            "CVE-2024-44126": false,
+            "CVE-2024-27876": false,
+            "CVE-2024-40850": false,
+            "CVE-2024-27880": false,
+            "CVE-2024-44176": false,
+            "CVE-2024-44169": false,
+            "CVE-2024-44165": false,
+            "CVE-2024-44191": false,
+            "CVE-2024-40791": false,
+            "CVE-2024-44183": false,
+            "CVE-2024-44127": false,
+            "CVE-2024-44158": false,
+            "CVE-2024-40844": false,
+            "CVE-2024-44179": false,
+            "CVE-2024-44164": false,
+            "CVE-2024-44184": false,
+            "CVE-2024-27879": false
+        },
         "ActivelyExploitedCVEs": [],
-        "UniqueCVEsCount": 0,
+        "UniqueCVEsCount": 18,
         "DaysSincePreviousRelease": 40
     },
     {

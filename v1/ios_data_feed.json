@@ -1,5 +1,5 @@
 {
-    "UpdateHash": "578c4ed21e1a094143b6116bf986e9dd8bfa2a9547c40dea1cc4b5f05b612dbf",
+    "UpdateHash": "453052cdf80ef5ff5e8d8805044ee86d570d63ba62d17bf42e8e48f8707c1a79",
     "OSVersions": [
         {
             "OSVersion": "18",
@@ -7,7 +7,7 @@
                 "ProductVersion": "18.7.3",
                 "Build": "22H217",
                 "ReleaseDate": "2025-12-12T00:00:00Z",
-                "ExpirationDate": "2026-06-14T00:00:00Z",
+                "ExpirationDate": "2026-06-15T00:00:00Z",
                 "SupportedDevices": [
                     "iPad11,1",
                     "iPad11,2",
@@ -963,7 +963,7 @@
                 "ProductVersion": "17.7.10",
                 "Build": "21H450",
                 "ReleaseDate": "2025-08-20T00:00:00Z",
-                "ExpirationDate": "2026-06-14T00:00:00Z",
+                "ExpirationDate": "2026-06-15T00:00:00Z",
                 "SupportedDevices": [
                     "iPad7,1",
                     "iPad7,2",
@@ -1320,9 +1320,28 @@
                         "iPad7,5",
                         "iPad7,6"
                     ],
-                    "CVEs": {},
+                    "CVEs": {
+                        "CVE-2024-44171": false,
+                        "CVE-2024-44126": false,
+                        "CVE-2024-27876": false,
+                        "CVE-2024-40850": false,
+                        "CVE-2024-27880": false,
+                        "CVE-2024-44176": false,
+                        "CVE-2024-44169": false,
+                        "CVE-2024-44165": false,
+                        "CVE-2024-44191": false,
+                        "CVE-2024-40791": false,
+                        "CVE-2024-44183": false,
+                        "CVE-2024-44127": false,
+                        "CVE-2024-44158": false,
+                        "CVE-2024-40844": false,
+                        "CVE-2024-44179": false,
+                        "CVE-2024-44164": false,
+                        "CVE-2024-44184": false,
+                        "CVE-2024-27879": false
+                    },
                     "ActivelyExploitedCVEs": [],
-                    "UniqueCVEsCount": 0,
+                    "UniqueCVEsCount": 18,
                     "DaysSincePreviousRelease": 40
                 },
                 {
@@ -1888,7 +1907,7 @@
                 "ProductVersion": "16.7.15",
                 "Build": "20H6380",
                 "ReleaseDate": "2026-03-11T00:00:00Z",
-                "ExpirationDate": "2026-06-14T00:00:00Z",
+                "ExpirationDate": "2026-06-15T00:00:00Z",
                 "SupportedDevices": [
                     "iPad6,11",
                     "iPad6,12",
