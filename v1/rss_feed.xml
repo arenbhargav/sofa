@@ -13,28 +13,7 @@
       <link>https://sofa.macadmins.io/v1/rss_feed.xml</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Tue, 24 Mar 2026 19:55:32 +0000</lastBuildDate>
-    <item>
-      <title>iOS 18.7.7 and iPadOS 18.7.7</title>
-      <link>https://sofa.macadmins.io/</link>
-      <description>Vulnerabilities Addressed: 24&lt;br&gt;Exploited CVE(s): 0&lt;br&gt;Days to Prev. Release: 20</description>
-      <guid isPermaLink="false">iOS_OS_18.7.7</guid>
-      <pubDate>Tue, 24 Mar 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>macOS Sonoma 14.8.5</title>
-      <link>https://sofa.macadmins.io/</link>
-      <description>Vulnerabilities Addressed: 52&lt;br&gt;Exploited CVE(s): 0&lt;br&gt;Days to Prev. Release: 41</description>
-      <guid isPermaLink="false">macOS_OS_14.8.5</guid>
-      <pubDate>Tue, 24 Mar 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>macOS Sequoia 15.7.5</title>
-      <link>https://sofa.macadmins.io/</link>
-      <description>Vulnerabilities Addressed: 57&lt;br&gt;Exploited CVE(s): 0&lt;br&gt;Days to Prev. Release: 41</description>
-      <guid isPermaLink="false">macOS_OS_15.7.5</guid>
-      <pubDate>Tue, 24 Mar 2026 00:00:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Tue, 24 Mar 2026 20:40:29 +0000</lastBuildDate>
     <item>
       <title>XProtect Plist Config 5334</title>
       <link>https://sofa.macadmins.io/</link>
