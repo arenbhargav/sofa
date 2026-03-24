@@ -1,5 +1,5 @@
 {
-    "UpdateHash": "7fc6c97818a1985ae821fe13f861c1f2ed8f6d3dec5492ae9c458e6c83dc78ee",
+    "UpdateHash": "701b7592fb41543eecf813eba7368d9e65c4b30d5432d3d83544609fb150083e",
     "OSVersions": [
         {
             "OSVersion": "18",
@@ -1906,7 +1906,7 @@
             "Latest": {
                 "ProductVersion": "16.7.15",
                 "Build": "20H6380",
-                "ReleaseDate": "2026-03-18T00:00:00Z",
+                "ReleaseDate": "2026-03-11T00:00:00Z",
                 "ExpirationDate": "2026-06-22T00:00:00Z",
                 "SupportedDevices": [
                     "iPad6,11",
@@ -1928,6 +1928,34 @@
                 "CVEs": {}
             },
             "SecurityReleases": [
+                {
+                    "UpdateName": "iOS 16.7.15 and iPadOS 16.7.15",
+                    "ProductName": "iOS",
+                    "ProductVersion": "16.7.15",
+                    "ReleaseDate": "2026-03-11T00:00:00Z",
+                    "ReleaseType": "OS",
+                    "SecurityInfo": "https://support.apple.com/en-ca/126646",
+                    "SupportedDevices": [
+                        "iPad6,11",
+                        "iPad6,12",
+                        "iPad6,3",
+                        "iPad6,4",
+                        "iPad6,7",
+                        "iPad6,8",
+                        "iPhone10,1",
+                        "iPhone10,2",
+                        "iPhone10,3",
+                        "iPhone10,4",
+                        "iPhone10,5",
+                        "iPhone10,6"
+                    ],
+                    "CVEs": {
+                        "CVE-2023-43010": false
+                    },
+                    "ActivelyExploitedCVEs": [],
+                    "UniqueCVEsCount": 1,
+                    "DaysSincePreviousRelease": 37
+                },
                 {
                     "UpdateName": "iOS 16.7.14 and iPadOS 16.7.14",
                     "ProductName": "iOS",
