@@ -1,5 +1,5 @@
 {
-    "UpdateHash": "d61f6f4ee8c4c9d84b99e71e1387d60f4694e5cdae0af953f358f99f74fc3fd6",
+    "UpdateHash": "905d531055165b93c406c1c497eef808d5c8090093857564983fe38dbbd5acfd",
     "OSVersions": [
         {
             "OSVersion": "18",
@@ -72,6 +72,51 @@
                 "CVEs": {}
             },
             "SecurityReleases": [
+                {
+                    "UpdateName": "iOS 18.7.7 and iPadOS 18.7.7",
+                    "ProductName": "iOS",
+                    "ProductVersion": "18.7.7",
+                    "ReleaseDate": "2026-03-24T00:00:00Z",
+                    "ReleaseType": "OS",
+                    "SecurityInfo": "https://support.apple.com/en-ca/126793",
+                    "SupportedDevices": [
+                        "iPad7,11",
+                        "iPad7,12",
+                        "iPhone11,2",
+                        "iPhone11,4",
+                        "iPhone11,6",
+                        "iPhone11,8"
+                    ],
+                    "CVEs": {
+                        "CVE-2026-28865": false,
+                        "CVE-2026-20637": false,
+                        "CVE-2026-28879": false,
+                        "CVE-2026-28866": false,
+                        "CVE-2026-20690": false,
+                        "CVE-2026-28886": false,
+                        "CVE-2026-28878": false,
+                        "CVE-2025-14524": false,
+                        "CVE-2026-28876": false,
+                        "CVE-2026-20668": false,
+                        "CVE-2026-28880": false,
+                        "CVE-2025-64505": false,
+                        "CVE-2025-43534": false,
+                        "CVE-2026-28868": false,
+                        "CVE-2026-28867": false,
+                        "CVE-2026-20687": false,
+                        "CVE-2026-28864": false,
+                        "CVE-2026-28852": false,
+                        "CVE-2026-20657": false,
+                        "CVE-2026-20665": false,
+                        "CVE-2026-20643": false,
+                        "CVE-2025-43376": false,
+                        "CVE-2026-28861": false,
+                        "CVE-2026-28871": false
+                    },
+                    "ActivelyExploitedCVEs": [],
+                    "UniqueCVEsCount": 24,
+                    "DaysSincePreviousRelease": 20
+                },
                 {
                     "UpdateName": "iOS 18.7.6",
                     "ProductName": "iOS",
