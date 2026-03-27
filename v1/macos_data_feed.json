@@ -1,5 +1,5 @@
 {
-    "UpdateHash": "924dd30dbe211e9338591506ccda46f7cae2cfc62c2dfb827844eb74d0722ce0",
+    "UpdateHash": "8409ac22d526c024227dff70e11e36309592daf5ac615db388cbc4aa6d2274ed",
     "OSVersions": [
         {
             "OSVersion": "Sequoia 15",
@@ -7,7 +7,7 @@
                 "ProductVersion": "15.7.5",
                 "Build": "24G624",
                 "ReleaseDate": "2026-03-24T00:00:00Z",
-                "ExpirationDate": "2026-06-24T00:00:00Z",
+                "ExpirationDate": "2026-06-25T00:00:00Z",
                 "SupportedDevices": [
                     "J132AP",
                     "J137AP",
@@ -357,6 +357,7 @@
                         "CVE-2025-59375": false,
                         "CVE-2026-20667": false,
                         "CVE-2026-20673": false,
+                        "CVE-2026-20694": false,
                         "CVE-2025-43533": false,
                         "CVE-2025-46300": false,
                         "CVE-2025-46301": false,
@@ -369,6 +370,7 @@
                         "CVE-2026-20628": false,
                         "CVE-2025-46290": false,
                         "CVE-2026-20653": false,
+                        "CVE-2026-20622": false,
                         "CVE-2026-20662": false,
                         "CVE-2026-20680": false,
                         "CVE-2026-20612": false,
@@ -381,7 +383,7 @@
                         "CVE-2026-20602": false
                     },
                     "ActivelyExploitedCVEs": [],
-                    "UniqueCVEsCount": 35,
+                    "UniqueCVEsCount": 37,
                     "DaysSincePreviousRelease": 61
                 },
                 {
@@ -2453,7 +2455,7 @@
                 "ProductVersion": "14.8.5",
                 "Build": "23J423",
                 "ReleaseDate": "2026-03-24T00:00:00Z",
-                "ExpirationDate": "2026-06-24T00:00:00Z",
+                "ExpirationDate": "2026-06-25T00:00:00Z",
                 "SupportedDevices": [
                     "J132AP",
                     "J137AP",
@@ -2760,6 +2762,7 @@
                         "VMM-x86_64"
                     ],
                     "CVEs": {
+                        "CVE-2026-20670": false,
                         "CVE-2026-20624": false,
                         "CVE-2026-20625": false,
                         "CVE-2026-20660": false,
@@ -2780,6 +2783,8 @@
                         "CVE-2026-20667": false,
                         "CVE-2026-20673": false,
                         "CVE-2026-20677": false,
+                        "CVE-2026-20651": false,
+                        "CVE-2026-20694": false,
                         "CVE-2026-20616": false,
                         "CVE-2025-43533": false,
                         "CVE-2025-46300": false,
@@ -2803,7 +2808,7 @@
                         "CVE-2026-20602": false
                     },
                     "ActivelyExploitedCVEs": [],
-                    "UniqueCVEsCount": 41,
+                    "UniqueCVEsCount": 44,
                     "DaysSincePreviousRelease": 61
                 },
                 {
@@ -5724,7 +5729,7 @@
                 "ProductVersion": "13.7.8",
                 "Build": "22H730",
                 "ReleaseDate": "2025-08-20T00:00:00Z",
-                "ExpirationDate": "2026-06-24T00:00:00Z",
+                "ExpirationDate": "2026-06-25T00:00:00Z",
                 "SupportedDevices": [
                     "J132AP",
                     "J137AP",
@@ -9146,7 +9151,7 @@
                 "ProductVersion": "12.7.6",
                 "Build": "21H1320",
                 "ReleaseDate": "2024-07-29T00:00:00Z",
-                "ExpirationDate": "2026-06-24T00:00:00Z",
+                "ExpirationDate": "2026-06-25T00:00:00Z",
                 "SupportedDevices": [
                     "J132AP",
                     "J137AP",
