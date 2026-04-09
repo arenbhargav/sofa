@@ -1,5 +1,5 @@
 {
-    "UpdateHash": "1fa7c721fbc0df570ee5fc05f24a7b1e12749aedb448bd3bb6a308a824f9d5e6",
+    "UpdateHash": "5ae015cfc9bd48df3413ed36e59afbedc87ae2e776176160371784f7f6c3b089",
     "OSVersions": [
         {
             "OSVersion": "Sequoia 15",
@@ -12854,10 +12854,10 @@
             }
         ],
         "LatestMacIPSW": {
-            "macos_ipsw_url": "https://updates.cdn-apple.com/2026WinterFCS/fullrestores/122-00766/062A6121-2ABE-45D7-BCB1-72B666B6D2C2/UniversalMac_26.4_25E246_Restore.ipsw",
-            "macos_ipsw_build": "25E246",
-            "macos_ipsw_version": "26.4",
-            "macos_ipsw_apple_slug": "122-00766"
+            "macos_ipsw_url": "https://updates.cdn-apple.com/2026WinterFCS/fullrestores/122-28781/DCB2FF13-06CB-44C2-BCA2-DFCAF3521D46/UniversalMac_26.4.1_25E253_Restore.ipsw",
+            "macos_ipsw_build": "25E253",
+            "macos_ipsw_version": "26.4.1",
+            "macos_ipsw_apple_slug": "122-28781"
         }
     }
 }
