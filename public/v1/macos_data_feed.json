@@ -1,5 +1,5 @@
 {
-    "UpdateHash": "5ae015cfc9bd48df3413ed36e59afbedc87ae2e776176160371784f7f6c3b089",
+    "UpdateHash": "6d3237f306c7e8b53b55eb386fe329b726544c332277514ca4ee04858ff74244",
     "OSVersions": [
         {
             "OSVersion": "Sequoia 15",
@@ -12720,12 +12720,19 @@
     "InstallationApps": {
         "LatestUMA": {
             "title": "macOS Tahoe",
-            "version": "26.4",
-            "build": "25E246",
-            "apple_slug": "122-10756",
-            "url": "https://swcdn.apple.com/content/downloads/48/33/122-10756-A_YQ9DW48PY4/y7tlsqmgdnno1pkaf137h2l3gmq0t0ywaz/InstallAssistant.pkg"
+            "version": "26.4.1",
+            "build": "25E253",
+            "apple_slug": "122-28067",
+            "url": "https://swcdn.apple.com/content/downloads/40/56/122-28067-A_9B4FJ1TL06/zchwyidn8ubxkpelhytzb05o418bchr2se/InstallAssistant.pkg"
         },
         "AllPreviousUMA": [
+            {
+                "title": "macOS Tahoe",
+                "version": "26.4",
+                "build": "25E246",
+                "apple_slug": "122-10756",
+                "url": "https://swcdn.apple.com/content/downloads/48/33/122-10756-A_YQ9DW48PY4/y7tlsqmgdnno1pkaf137h2l3gmq0t0ywaz/InstallAssistant.pkg"
+            },
             {
                 "title": "macOS Tahoe",
                 "version": "26.3.2",
