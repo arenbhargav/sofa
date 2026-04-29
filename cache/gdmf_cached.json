@@ -1,5 +1,5 @@
 {
-    "etag": "2910f4004d22fa9eb4f23e796b32a4986245dda5913154127984cd52a98de7e8",
+    "etag": "62beb55bde67c2af66ae9435564cf971b810bdb6f4056205b2ca0d43c1421c5e",
     "data": {
         "PublicAssetSets": {
             "iOS": [
@@ -1928,20 +1928,6 @@
                     "ProductVersion": "18.7.7",
                     "Build": "22H6340",
                     "PostingDate": "2026-04-01",
-                    "ExpirationDate": "2026-07-28",
-                    "SupportedDevices": [
-                        "iPad7,11",
-                        "iPad7,12",
-                        "iPhone11,2",
-                        "iPhone11,4",
-                        "iPhone11,6",
-                        "iPhone11,8"
-                    ]
-                },
-                {
-                    "ProductVersion": "18.7.7",
-                    "Build": "22H6340",
-                    "PostingDate": "2026-04-01",
                     "ExpirationDate": "2026-07-21",
                     "SupportedDevices": [
                         "iPad11,1",
@@ -1988,6 +1974,8 @@
                         "iPad16,4",
                         "iPad16,5",
                         "iPad16,6",
+                        "iPad7,11",
+                        "iPad7,12",
                         "iPad8,1",
                         "iPad8,10",
                         "iPad8,11",
@@ -2000,6 +1988,10 @@
                         "iPad8,7",
                         "iPad8,8",
                         "iPad8,9",
+                        "iPhone11,2",
+                        "iPhone11,4",
+                        "iPhone11,6",
+                        "iPhone11,8",
                         "iPhone12,1",
                         "iPhone12,3",
                         "iPhone12,5",
@@ -3013,7 +3005,7 @@
                     "ProductVersion": "26.4.1",
                     "Build": "23E6254",
                     "PostingDate": "2026-04-08",
-                    "ExpirationDate": "2026-07-28",
+                    "ExpirationDate": "2026-07-21",
                     "SupportedDevices": [
                         "iPad11,1",
                         "iPad11,2",
@@ -3839,20 +3831,6 @@
                     "ProductVersion": "18.7.7",
                     "Build": "22H340",
                     "PostingDate": "2026-04-01",
-                    "ExpirationDate": "2026-07-28",
-                    "SupportedDevices": [
-                        "iPad7,11",
-                        "iPad7,12",
-                        "iPhone11,2",
-                        "iPhone11,4",
-                        "iPhone11,6",
-                        "iPhone11,8"
-                    ]
-                },
-                {
-                    "ProductVersion": "18.7.7",
-                    "Build": "22H340",
-                    "PostingDate": "2026-04-01",
                     "ExpirationDate": "2026-07-21",
                     "SupportedDevices": [
                         "iPad11,1",
@@ -3899,6 +3877,8 @@
                         "iPad16,4",
                         "iPad16,5",
                         "iPad16,6",
+                        "iPad7,11",
+                        "iPad7,12",
                         "iPad8,1",
                         "iPad8,10",
                         "iPad8,11",
@@ -3911,6 +3891,10 @@
                         "iPad8,7",
                         "iPad8,8",
                         "iPad8,9",
+                        "iPhone11,2",
+                        "iPhone11,4",
+                        "iPhone11,6",
+                        "iPhone11,8",
                         "iPhone12,1",
                         "iPhone12,3",
                         "iPhone12,5",
@@ -4148,7 +4132,7 @@
                     "ProductVersion": "26.4.1",
                     "Build": "23E254",
                     "PostingDate": "2026-04-08",
-                    "ExpirationDate": "2026-07-28",
+                    "ExpirationDate": "2026-07-21",
                     "SupportedDevices": [
                         "iPad11,1",
                         "iPad11,2",
