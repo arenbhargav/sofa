@@ -2636,6 +2636,7 @@
             "CVE-2025-43512": false,
             "CVE-2025-46285": false,
             "CVE-2025-5918": false,
+            "CVE-2025-46311": false,
             "CVE-2025-46276": false,
             "CVE-2025-43538": false,
             "CVE-2025-46290": false,
@@ -2653,7 +2654,7 @@
             "CVE-2025-14174",
             "CVE-2025-43529"
         ],
-        "UniqueCVEsCount": 22,
+        "UniqueCVEsCount": 23,
         "DaysSincePreviousRelease": 37
     },
     {
@@ -2799,6 +2800,8 @@
             "CVE-2026-28867": false,
             "CVE-2026-20687": false,
             "CVE-2026-28864": false,
+            "CVE-2026-28860": false,
+            "CVE-2026-28967": false,
             "CVE-2026-28852": false,
             "CVE-2026-20657": false,
             "CVE-2026-20665": false,
@@ -2808,7 +2811,7 @@
             "CVE-2026-28871": false
         },
         "ActivelyExploitedCVEs": [],
-        "UniqueCVEsCount": 24,
+        "UniqueCVEsCount": 26,
         "DaysSincePreviousRelease": 20
     },
     {
@@ -2837,6 +2840,8 @@
             "CVE-2026-28867": false,
             "CVE-2026-20687": false,
             "CVE-2026-28864": false,
+            "CVE-2026-28860": false,
+            "CVE-2026-28967": false,
             "CVE-2026-28852": false,
             "CVE-2026-20657": false,
             "CVE-2026-20665": false,
@@ -2846,7 +2851,7 @@
             "CVE-2026-28871": false
         },
         "ActivelyExploitedCVEs": [],
-        "UniqueCVEsCount": 24,
+        "UniqueCVEsCount": 26,
         "DaysSincePreviousRelease": 8
     },
     {
@@ -2946,123 +2951,5 @@
         "ActivelyExploitedCVEs": [],
         "UniqueCVEsCount": 1,
         "DaysSincePreviousRelease": 21
-    },
-    {
-        "UpdateName": "iOS 18.7.9 and iPadOS 18.7.9",
-        "ProductName": "iOS",
-        "ProductVersion": "18.7.9",
-        "ReleaseDate": "2026-05-11T00:00:00Z",
-        "ReleaseType": "OS",
-        "SecurityInfo": "https://support.apple.com/en-ca/127111",
-        "SupportedDevices": [
-            "iPad7,11",
-            "iPad7,12",
-            "iPhone11,2",
-            "iPhone11,4",
-            "iPhone11,6",
-            "iPhone11,8"
-        ],
-        "CVEs": {
-            "CVE-2026-28877": false,
-            "CVE-2026-28959": false,
-            "CVE-2026-28995": false,
-            "CVE-2026-39869": false,
-            "CVE-2026-28872": false,
-            "CVE-2026-28894": false,
-            "CVE-2026-28936": false,
-            "CVE-2026-43659": false,
-            "CVE-2026-28870": false,
-            "CVE-2026-28977": false,
-            "CVE-2026-28992": false,
-            "CVE-2026-28943": false,
-            "CVE-2026-28969": false,
-            "CVE-2026-43654": false,
-            "CVE-2026-28954": false,
-            "CVE-2026-28897": false,
-            "CVE-2026-28952": false,
-            "CVE-2026-28951": false,
-            "CVE-2026-28972": false,
-            "CVE-2026-28986": false,
-            "CVE-2026-28987": false,
-            "CVE-2026-28983": false,
-            "CVE-2026-28882": false,
-            "CVE-2026-28929": false,
-            "CVE-2026-43653": false,
-            "CVE-2026-43668": false,
-            "CVE-2026-43666": false,
-            "CVE-2026-28940": false,
-            "CVE-2026-28941": false,
-            "CVE-2026-28906": false,
-            "CVE-2026-28873": false,
-            "CVE-2026-43656": false,
-            "CVE-2026-28846": false,
-            "CVE-2026-28993": false,
-            "CVE-2026-28957": false,
-            "CVE-2026-28907": false,
-            "CVE-2026-43660": false,
-            "CVE-2026-28847": false,
-            "CVE-2026-28904": false,
-            "CVE-2026-28903": false,
-            "CVE-2026-28955": false,
-            "CVE-2026-28953": false,
-            "CVE-2026-28962": false,
-            "CVE-2026-28917": false,
-            "CVE-2026-28819": false,
-            "CVE-2026-28994": false,
-            "CVE-2026-28920": false
-        },
-        "ActivelyExploitedCVEs": [],
-        "UniqueCVEsCount": 47,
-        "DaysSincePreviousRelease": 19
-    },
-    {
-        "UpdateName": "iPadOS 17.7.11",
-        "ProductName": "iOS",
-        "ProductVersion": "17.7.11",
-        "ReleaseDate": "2026-05-11T00:00:00Z",
-        "ReleaseType": "OS",
-        "SecurityInfo": "https://support.apple.com/en-ca/127112",
-        "SupportedDevices": [
-            "iPad7,1",
-            "iPad7,2",
-            "iPad7,3",
-            "iPad7,4",
-            "iPad7,5",
-            "iPad7,6"
-        ],
-        "CVEs": {
-            "CVE-2026-28950": false
-        },
-        "ActivelyExploitedCVEs": [],
-        "UniqueCVEsCount": 1,
-        "DaysSincePreviousRelease": 264
-    },
-    {
-        "UpdateName": "iOS 16.7.16 and iPadOS 16.7.16",
-        "ProductName": "iOS",
-        "ProductVersion": "16.7.16",
-        "ReleaseDate": "2026-05-11T00:00:00Z",
-        "ReleaseType": "OS",
-        "SecurityInfo": "https://support.apple.com/en-ca/127113",
-        "SupportedDevices": [
-            "iPad6,11",
-            "iPad6,12",
-            "iPad6,3",
-            "iPad6,4",
-            "iPad6,7",
-            "iPad6,8",
-            "iPhone10,1",
-            "iPhone10,2",
-            "iPhone10,3",
-            "iPhone10,4",
-            "iPhone10,5",
-            "iPhone10,6"
-        ],
-        "CVEs": {
-            "CVE-2026-28950": false
-        },
-        "ActivelyExploitedCVEs": [],
-        "UniqueCVEsCount": 1,
-        "DaysSincePreviousRelease": 61
     }
 ]
