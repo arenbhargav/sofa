@@ -13,7 +13,42 @@
       <link>https://sofa.macadmins.io/v1/rss_feed.xml</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Mon, 11 May 2026 15:42:57 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 11 May 2026 18:16:16 +0000</lastBuildDate>
+    <item>
+      <title>iOS 16.7.16 and iPadOS 16.7.16</title>
+      <link>https://sofa.macadmins.io/</link>
+      <description>Vulnerabilities Addressed: 1&lt;br&gt;Exploited CVE(s): 0&lt;br&gt;Days to Prev. Release: 61</description>
+      <guid isPermaLink="false">iOS_OS_16.7.16</guid>
+      <pubDate>Mon, 11 May 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>iPadOS 17.7.11</title>
+      <link>https://sofa.macadmins.io/</link>
+      <description>Vulnerabilities Addressed: 1&lt;br&gt;Exploited CVE(s): 0&lt;br&gt;Days to Prev. Release: 264</description>
+      <guid isPermaLink="false">iOS_OS_17.7.11</guid>
+      <pubDate>Mon, 11 May 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>iOS 18.7.9 and iPadOS 18.7.9</title>
+      <link>https://sofa.macadmins.io/</link>
+      <description>Vulnerabilities Addressed: 47&lt;br&gt;Exploited CVE(s): 0&lt;br&gt;Days to Prev. Release: 19</description>
+      <guid isPermaLink="false">iOS_OS_18.7.9</guid>
+      <pubDate>Mon, 11 May 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>macOS Sonoma 14.8.7</title>
+      <link>https://sofa.macadmins.io/</link>
+      <description>Vulnerabilities Addressed: 42&lt;br&gt;Exploited CVE(s): 0&lt;br&gt;Days to Prev. Release: 48</description>
+      <guid isPermaLink="false">macOS_OS_14.8.7</guid>
+      <pubDate>Mon, 11 May 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>macOS Sequoia 15.7.7</title>
+      <link>https://sofa.macadmins.io/</link>
+      <description>Vulnerabilities Addressed: 45&lt;br&gt;Exploited CVE(s): 0&lt;br&gt;Days to Prev. Release: 48</description>
+      <guid isPermaLink="false">macOS_OS_15.7.7</guid>
+      <pubDate>Mon, 11 May 2026 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>XProtect Plist Config 5342</title>
       <link>https://sofa.macadmins.io/</link>
