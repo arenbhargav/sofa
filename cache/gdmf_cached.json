@@ -1,5 +1,5 @@
 {
-    "etag": "869a78f7f10ae39edacdefb7d7fce10e6d60ce2a7f0ec7de43b615e9ca97cdc0",
+    "etag": "3ff9acd37cb43d4578f883e0fda2387529adb302809c11e5e69368a43f79e846",
     "data": {
         "PublicAssetSets": {
             "iOS": [
@@ -976,6 +976,28 @@
                     ]
                 }
             ],
+            "visionOS": [
+                {
+                    "ProductVersion": "26.5",
+                    "Build": "23O471",
+                    "PostingDate": "2026-05-11",
+                    "ExpirationDate": "2026-08-10",
+                    "SupportedDevices": [
+                        "RealityDevice14,1",
+                        "RealityDevice17,1"
+                    ]
+                },
+                {
+                    "ProductVersion": "26.5",
+                    "Build": "23O6471",
+                    "PostingDate": "2026-05-11",
+                    "ExpirationDate": "2026-08-10",
+                    "SupportedDevices": [
+                        "RealityDevice14,1",
+                        "RealityDevice17,1"
+                    ]
+                }
+            ],
             "macOS": [
                 {
                     "ProductVersion": "15.7.7",
@@ -1410,28 +1432,6 @@
                         "Mac-EE2EBD4B90B839A8",
                         "VMA2MACOSAP",
                         "VMM-x86_64"
-                    ]
-                }
-            ],
-            "visionOS": [
-                {
-                    "ProductVersion": "26.5",
-                    "Build": "23O471",
-                    "PostingDate": "2026-05-11",
-                    "ExpirationDate": "2026-08-10",
-                    "SupportedDevices": [
-                        "RealityDevice14,1",
-                        "RealityDevice17,1"
-                    ]
-                },
-                {
-                    "ProductVersion": "26.5",
-                    "Build": "23O6471",
-                    "PostingDate": "2026-05-11",
-                    "ExpirationDate": "2026-08-10",
-                    "SupportedDevices": [
-                        "RealityDevice14,1",
-                        "RealityDevice17,1"
                     ]
                 }
             ]
@@ -2062,7 +2062,7 @@
                 {
                     "ProductVersion": "8.8.1",
                     "Build": "19U512",
-                    "PostingDate": "2026-02-05",
+                    "PostingDate": "2026-02-11",
                     "ExpirationDate": "2026-06-22",
                     "SupportedDevices": [
                         "Watch3,1",
@@ -2109,7 +2109,7 @@
                 {
                     "ProductVersion": "11.6.2",
                     "Build": "22U95",
-                    "PostingDate": "2026-02-05",
+                    "PostingDate": "2026-02-11",
                     "ExpirationDate": "2026-08-10",
                     "SupportedDevices": [
                         "Watch6,1",
@@ -2500,7 +2500,7 @@
                 {
                     "ProductVersion": "5.3.9",
                     "Build": "16U693",
-                    "PostingDate": "2026-02-05",
+                    "PostingDate": "2026-02-11",
                     "ExpirationDate": "2026-06-22",
                     "SupportedDevices": [
                         "Watch2,3",
@@ -2570,7 +2570,7 @@
                 {
                     "ProductVersion": "9.6.4",
                     "Build": "20U512",
-                    "PostingDate": "2026-02-05",
+                    "PostingDate": "2026-02-11",
                     "ExpirationDate": "2026-08-10",
                     "SupportedDevices": [
                         "Watch4,1",
@@ -2797,7 +2797,7 @@
                 {
                     "ProductVersion": "10.6.2",
                     "Build": "21U6594",
-                    "PostingDate": "2026-02-05",
+                    "PostingDate": "2026-02-11",
                     "ExpirationDate": "2026-08-10",
                     "SupportedDevices": [
                         "Watch4,1",
@@ -2982,7 +2982,7 @@
                 {
                     "ProductVersion": "9.6.4",
                     "Build": "20U6512",
-                    "PostingDate": "2026-02-05",
+                    "PostingDate": "2026-02-11",
                     "ExpirationDate": "2026-08-10",
                     "SupportedDevices": [
                         "Watch4,1",
@@ -3019,7 +3019,7 @@
                 {
                     "ProductVersion": "8.8.1",
                     "Build": "19U6512",
-                    "PostingDate": "2026-02-05",
+                    "PostingDate": "2026-02-11",
                     "ExpirationDate": "2026-06-22",
                     "SupportedDevices": [
                         "Watch3,1",
@@ -3472,7 +3472,7 @@
                 {
                     "ProductVersion": "6.3.1",
                     "Build": "17U6224",
-                    "PostingDate": "2026-02-05",
+                    "PostingDate": "2026-02-11",
                     "ExpirationDate": "2026-08-10",
                     "SupportedDevices": [
                         "Watch2,3",
@@ -3508,49 +3508,6 @@
                         "AudioAccessory1,1",
                         "AudioAccessory5,1",
                         "AudioAccessory6,1"
-                    ]
-                },
-                {
-                    "ProductVersion": "26.2.1",
-                    "Build": "23S314",
-                    "PostingDate": "2026-02-05",
-                    "ExpirationDate": "2026-05-12",
-                    "SupportedDevices": [
-                        "Watch6,1",
-                        "Watch6,10",
-                        "Watch6,11",
-                        "Watch6,12",
-                        "Watch6,13",
-                        "Watch6,14",
-                        "Watch6,15",
-                        "Watch6,16",
-                        "Watch6,17",
-                        "Watch6,18",
-                        "Watch6,2",
-                        "Watch6,3",
-                        "Watch6,4",
-                        "Watch6,6",
-                        "Watch6,7",
-                        "Watch6,8",
-                        "Watch6,9",
-                        "Watch7,1",
-                        "Watch7,10",
-                        "Watch7,11",
-                        "Watch7,12",
-                        "Watch7,13",
-                        "Watch7,14",
-                        "Watch7,15",
-                        "Watch7,16",
-                        "Watch7,17",
-                        "Watch7,18",
-                        "Watch7,19",
-                        "Watch7,2",
-                        "Watch7,20",
-                        "Watch7,3",
-                        "Watch7,4",
-                        "Watch7,5",
-                        "Watch7,8",
-                        "Watch7,9"
                     ]
                 },
                 {
@@ -3872,7 +3829,7 @@
                 {
                     "ProductVersion": "6.3.1",
                     "Build": "17U224",
-                    "PostingDate": "2026-02-05",
+                    "PostingDate": "2026-02-11",
                     "ExpirationDate": "2026-08-10",
                     "SupportedDevices": [
                         "Watch2,3",
@@ -4002,7 +3959,7 @@
                 {
                     "ProductVersion": "10.6.2",
                     "Build": "21U594",
-                    "PostingDate": "2026-02-05",
+                    "PostingDate": "2026-02-11",
                     "ExpirationDate": "2026-08-10",
                     "SupportedDevices": [
                         "Watch4,1",
@@ -4057,49 +4014,6 @@
                         "Watch4,2",
                         "Watch4,3",
                         "Watch4,4"
-                    ]
-                },
-                {
-                    "ProductVersion": "26.2.1",
-                    "Build": "23S6314",
-                    "PostingDate": "2026-02-05",
-                    "ExpirationDate": "2026-05-12",
-                    "SupportedDevices": [
-                        "Watch6,1",
-                        "Watch6,10",
-                        "Watch6,11",
-                        "Watch6,12",
-                        "Watch6,13",
-                        "Watch6,14",
-                        "Watch6,15",
-                        "Watch6,16",
-                        "Watch6,17",
-                        "Watch6,18",
-                        "Watch6,2",
-                        "Watch6,3",
-                        "Watch6,4",
-                        "Watch6,6",
-                        "Watch6,7",
-                        "Watch6,8",
-                        "Watch6,9",
-                        "Watch7,1",
-                        "Watch7,10",
-                        "Watch7,11",
-                        "Watch7,12",
-                        "Watch7,13",
-                        "Watch7,14",
-                        "Watch7,15",
-                        "Watch7,16",
-                        "Watch7,17",
-                        "Watch7,18",
-                        "Watch7,19",
-                        "Watch7,2",
-                        "Watch7,20",
-                        "Watch7,3",
-                        "Watch7,4",
-                        "Watch7,5",
-                        "Watch7,8",
-                        "Watch7,9"
                     ]
                 },
                 {
@@ -4221,7 +4135,7 @@
                 {
                     "ProductVersion": "11.6.2",
                     "Build": "22U6095",
-                    "PostingDate": "2026-02-05",
+                    "PostingDate": "2026-02-11",
                     "ExpirationDate": "2026-08-10",
                     "SupportedDevices": [
                         "Watch6,1",
@@ -5510,30 +5424,10 @@
                     ]
                 },
                 {
-                    "ProductVersion": "26.2",
-                    "Build": "23N6301",
-                    "PostingDate": "2026-01-08",
-                    "ExpirationDate": "2026-05-12",
-                    "SupportedDevices": [
-                        "RealityDevice14,1",
-                        "RealityDevice17,1"
-                    ]
-                },
-                {
                     "ProductVersion": "26.3",
                     "Build": "23N6620",
                     "PostingDate": "2026-02-11",
                     "ExpirationDate": "2026-05-27",
-                    "SupportedDevices": [
-                        "RealityDevice14,1",
-                        "RealityDevice17,1"
-                    ]
-                },
-                {
-                    "ProductVersion": "26.2",
-                    "Build": "23N301",
-                    "PostingDate": "2026-01-08",
-                    "ExpirationDate": "2026-05-12",
                     "SupportedDevices": [
                         "RealityDevice14,1",
                         "RealityDevice17,1"
