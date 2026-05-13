@@ -1,5 +1,5 @@
 {
-    "UpdateHash": "5975a003f84ef3d74f6bbbb798fd90cce09ff41d3f41c29145717cc93865dcf5",
+    "UpdateHash": "fcca2f515bbb383fcce643fa3c0bf928296558763c3e21a325b14bbf1a8d22c2",
     "OSVersions": [
         {
             "OSVersion": "18",
@@ -439,6 +439,7 @@
                         "CVE-2025-43512": false,
                         "CVE-2025-46285": false,
                         "CVE-2025-5918": false,
+                        "CVE-2025-46311": false,
                         "CVE-2025-46276": false,
                         "CVE-2025-43538": false,
                         "CVE-2025-46290": false,
@@ -456,7 +457,7 @@
                         "CVE-2025-14174",
                         "CVE-2025-43529"
                     ],
-                    "UniqueCVEsCount": 22,
+                    "UniqueCVEsCount": 23,
                     "DaysSincePreviousRelease": 37
                 },
                 {
