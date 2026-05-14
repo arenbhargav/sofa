@@ -1,5 +1,5 @@
 {
-    "UpdateHash": "fcca2f515bbb383fcce643fa3c0bf928296558763c3e21a325b14bbf1a8d22c2",
+    "UpdateHash": "0b208e172bbfefe25428b4658e970ab3700d80635057afad174a9c8a3a3c8d8b",
     "OSVersions": [
         {
             "OSVersion": "18",
@@ -7,7 +7,7 @@
                 "ProductVersion": "18.7.8",
                 "Build": "22H6352",
                 "ReleaseDate": "2026-04-22T00:00:00Z",
-                "ExpirationDate": "2026-08-11T00:00:00Z",
+                "ExpirationDate": "2026-08-12T00:00:00Z",
                 "SupportedDevices": [
                     "iPad11,1",
                     "iPad11,2",
@@ -439,7 +439,6 @@
                         "CVE-2025-43512": false,
                         "CVE-2025-46285": false,
                         "CVE-2025-5918": false,
-                        "CVE-2025-46311": false,
                         "CVE-2025-46276": false,
                         "CVE-2025-43538": false,
                         "CVE-2025-46290": false,
@@ -457,7 +456,7 @@
                         "CVE-2025-14174",
                         "CVE-2025-43529"
                     ],
-                    "UniqueCVEsCount": 23,
+                    "UniqueCVEsCount": 22,
                     "DaysSincePreviousRelease": 37
                 },
                 {
@@ -1197,7 +1196,7 @@
                 "ProductVersion": "17.7.11",
                 "Build": "21H461",
                 "ReleaseDate": "2026-05-11T00:00:00Z",
-                "ExpirationDate": "2026-08-11T00:00:00Z",
+                "ExpirationDate": "2026-08-12T00:00:00Z",
                 "SupportedDevices": [
                     "iPad7,1",
                     "iPad7,2",
@@ -2156,7 +2155,7 @@
                 "ProductVersion": "16.7.16",
                 "Build": "20H6392",
                 "ReleaseDate": "2026-05-11T00:00:00Z",
-                "ExpirationDate": "2026-08-11T00:00:00Z",
+                "ExpirationDate": "2026-08-12T00:00:00Z",
                 "SupportedDevices": [
                     "iPad6,11",
                     "iPad6,12",
