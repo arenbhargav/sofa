@@ -2636,7 +2636,6 @@
             "CVE-2025-43512": false,
             "CVE-2025-46285": false,
             "CVE-2025-5918": false,
-            "CVE-2025-46311": false,
             "CVE-2025-46276": false,
             "CVE-2025-43538": false,
             "CVE-2025-46290": false,
@@ -2654,7 +2653,7 @@
             "CVE-2025-14174",
             "CVE-2025-43529"
         ],
-        "UniqueCVEsCount": 23,
+        "UniqueCVEsCount": 22,
         "DaysSincePreviousRelease": 37
     },
     {
