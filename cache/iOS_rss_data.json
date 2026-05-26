@@ -2516,6 +2516,7 @@
         ],
         "CVEs": {
             "CVE-2025-43346": false,
+            "CVE-2025-43357": false,
             "CVE-2025-43349": false,
             "CVE-2025-43302": false,
             "CVE-2025-43359": false,
@@ -2530,7 +2531,7 @@
             "CVE-2025-43342": false
         },
         "ActivelyExploitedCVEs": [],
-        "UniqueCVEsCount": 13,
+        "UniqueCVEsCount": 14,
         "DaysSincePreviousRelease": 26
     },
     {
