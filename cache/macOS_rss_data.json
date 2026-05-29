@@ -5095,13 +5095,12 @@
             "CVE-2025-43336": false,
             "CVE-2025-43397": false,
             "CVE-2025-31199": false,
-            "CVE-2025-6965": false,
             "CVE-2025-43334": false,
             "CVE-2025-43412": false,
             "CVE-2025-43373": false
         },
         "ActivelyExploitedCVEs": [],
-        "UniqueCVEsCount": 51,
+        "UniqueCVEsCount": 50,
         "DaysSincePreviousRelease": 35
     },
     {
