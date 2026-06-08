@@ -1,5 +1,5 @@
 {
-    "etag": "aedcd43526e478d7b80f1f2b8de4da95e03e30064faee6f0ad3704346b52d7b6",
+    "etag": "216c94ebd9ed508ccbbd227af8151be753e33872487bf76e9eeb40ebf5b3cfa3",
     "data": {
         "PublicAssetSets": {
             "iOS": [
@@ -4264,7 +4264,7 @@
                 {
                     "ProductVersion": "14.8.4",
                     "Build": "23J319",
-                    "PostingDate": "2026-03-04",
+                    "PostingDate": "2026-03-10",
                     "ExpirationDate": "2026-06-22",
                     "SupportedDevices": [
                         "J132AP",
@@ -4328,7 +4328,7 @@
                 {
                     "ProductVersion": "26.3.1",
                     "Build": "25D2128",
-                    "PostingDate": "2026-03-04",
+                    "PostingDate": "2026-03-10",
                     "ExpirationDate": "2026-06-22",
                     "SupportedDevices": [
                         "J152FAP",
@@ -4393,15 +4393,6 @@
                         "J815AP",
                         "VMA2MACOSAP",
                         "VMM-x86_64"
-                    ]
-                },
-                {
-                    "ProductVersion": "26.3.1",
-                    "Build": "25D2128",
-                    "PostingDate": "2026-03-04",
-                    "ExpirationDate": "2026-06-08",
-                    "SupportedDevices": [
-                        "J700AP"
                     ]
                 },
                 {
@@ -4768,7 +4759,7 @@
                 {
                     "ProductVersion": "15.7.4",
                     "Build": "24G517",
-                    "PostingDate": "2026-03-04",
+                    "PostingDate": "2026-03-10",
                     "ExpirationDate": "2026-06-22",
                     "SupportedDevices": [
                         "J132AP",
@@ -4843,7 +4834,7 @@
                 {
                     "ProductVersion": "12.7.6",
                     "Build": "21H1320",
-                    "PostingDate": "2026-03-04",
+                    "PostingDate": "2026-03-10",
                     "ExpirationDate": "2026-09-06",
                     "SupportedDevices": [
                         "J132AP",
@@ -5044,7 +5035,7 @@
                 {
                     "ProductVersion": "11.7.11",
                     "Build": "20G1443",
-                    "PostingDate": "2026-03-04",
+                    "PostingDate": "2026-03-10",
                     "ExpirationDate": "2026-09-06",
                     "SupportedDevices": [
                         "J132AP",
@@ -5140,7 +5131,7 @@
                 {
                     "ProductVersion": "13.7.8",
                     "Build": "22H730",
-                    "PostingDate": "2026-03-04",
+                    "PostingDate": "2026-03-10",
                     "ExpirationDate": "2026-09-06",
                     "SupportedDevices": [
                         "J132AP",
@@ -5265,91 +5256,6 @@
             ]
         },
         "PublicBackgroundSecurityImprovements": {
-            "macOS": [
-                {
-                    "ProductVersion": "26.3.2",
-                    "Build": "25D771400a",
-                    "ProductVersionExtra": "(a)",
-                    "PrerequisiteBuild": "25D2140",
-                    "PostingDate": "2026-03-17",
-                    "ExpirationDate": "2026-09-06",
-                    "SupportedDevices": [
-                        "J700AP"
-                    ]
-                },
-                {
-                    "ProductVersion": "26.3.1",
-                    "Build": "25D771280a",
-                    "ProductVersionExtra": "(a)",
-                    "PrerequisiteBuild": "25D2128",
-                    "PostingDate": "2026-03-17",
-                    "ExpirationDate": "2026-09-06",
-                    "SupportedDevices": [
-                        "J152FAP",
-                        "J160AP",
-                        "J180dAP",
-                        "J185AP",
-                        "J185FAP",
-                        "J214KAP",
-                        "J215AP",
-                        "J274AP",
-                        "J293AP",
-                        "J313AP",
-                        "J314cAP",
-                        "J314sAP",
-                        "J316cAP",
-                        "J316sAP",
-                        "J375cAP",
-                        "J375dAP",
-                        "J413AP",
-                        "J414cAP",
-                        "J414sAP",
-                        "J415AP",
-                        "J416cAP",
-                        "J416sAP",
-                        "J433AP",
-                        "J434AP",
-                        "J456AP",
-                        "J457AP",
-                        "J473AP",
-                        "J474sAP",
-                        "J475cAP",
-                        "J475dAP",
-                        "J493AP",
-                        "J504AP",
-                        "J514cAP",
-                        "J514mAP",
-                        "J514sAP",
-                        "J516cAP",
-                        "J516mAP",
-                        "J516sAP",
-                        "J575cAP",
-                        "J575dAP",
-                        "J604AP",
-                        "J613AP",
-                        "J614cAP",
-                        "J614sAP",
-                        "J615AP",
-                        "J616cAP",
-                        "J616sAP",
-                        "J623AP",
-                        "J624AP",
-                        "J704AP",
-                        "J713AP",
-                        "J714cAP",
-                        "J714sAP",
-                        "J715AP",
-                        "J716cAP",
-                        "J716sAP",
-                        "J773gAP",
-                        "J773sAP",
-                        "J813AP",
-                        "J815AP",
-                        "VMA2MACOSAP",
-                        "VMM-x86_64"
-                    ]
-                }
-            ],
             "iOS": [
                 {
                     "ProductVersion": "26.3.1",
@@ -5454,6 +5360,91 @@
                         "iPhone18,3",
                         "iPhone18,4",
                         "iPhone18,5"
+                    ]
+                }
+            ],
+            "macOS": [
+                {
+                    "ProductVersion": "26.3.2",
+                    "Build": "25D771400a",
+                    "ProductVersionExtra": "(a)",
+                    "PrerequisiteBuild": "25D2140",
+                    "PostingDate": "2026-03-17",
+                    "ExpirationDate": "2026-09-06",
+                    "SupportedDevices": [
+                        "J700AP"
+                    ]
+                },
+                {
+                    "ProductVersion": "26.3.1",
+                    "Build": "25D771280a",
+                    "ProductVersionExtra": "(a)",
+                    "PrerequisiteBuild": "25D2128",
+                    "PostingDate": "2026-03-17",
+                    "ExpirationDate": "2026-09-06",
+                    "SupportedDevices": [
+                        "J152FAP",
+                        "J160AP",
+                        "J180dAP",
+                        "J185AP",
+                        "J185FAP",
+                        "J214KAP",
+                        "J215AP",
+                        "J274AP",
+                        "J293AP",
+                        "J313AP",
+                        "J314cAP",
+                        "J314sAP",
+                        "J316cAP",
+                        "J316sAP",
+                        "J375cAP",
+                        "J375dAP",
+                        "J413AP",
+                        "J414cAP",
+                        "J414sAP",
+                        "J415AP",
+                        "J416cAP",
+                        "J416sAP",
+                        "J433AP",
+                        "J434AP",
+                        "J456AP",
+                        "J457AP",
+                        "J473AP",
+                        "J474sAP",
+                        "J475cAP",
+                        "J475dAP",
+                        "J493AP",
+                        "J504AP",
+                        "J514cAP",
+                        "J514mAP",
+                        "J514sAP",
+                        "J516cAP",
+                        "J516mAP",
+                        "J516sAP",
+                        "J575cAP",
+                        "J575dAP",
+                        "J604AP",
+                        "J613AP",
+                        "J614cAP",
+                        "J614sAP",
+                        "J615AP",
+                        "J616cAP",
+                        "J616sAP",
+                        "J623AP",
+                        "J624AP",
+                        "J704AP",
+                        "J713AP",
+                        "J714cAP",
+                        "J714sAP",
+                        "J715AP",
+                        "J716cAP",
+                        "J716sAP",
+                        "J773gAP",
+                        "J773sAP",
+                        "J813AP",
+                        "J815AP",
+                        "VMA2MACOSAP",
+                        "VMM-x86_64"
                     ]
                 }
             ]
