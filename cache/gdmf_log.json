@@ -1,9 +1,21 @@
 {
     "latest_etag": {
-        "LastCheck": "2026-06-11T19:35:07+00:00Z",
-        "UpdateHash": "5ab44ac22bdb9e8e354b7a38397b18aa500b8a62eb2eb72e32b31b812b3f2f46"
+        "LastCheck": "2026-06-11T22:02:22+00:00Z",
+        "UpdateHash": "dd98f2134d003eedc7fdc2efb7e077621a02394f82dc93714464f8f06d9b4468"
     },
     "log": [
+        {
+            "timestamp": "2026-06-11T22:02:22+00:00Z",
+            "new_etag": "dd98f2134d003eedc7fdc2efb7e077621a02394f82dc93714464f8f06d9b4468",
+            "status": "success (200)",
+            "previous_etag": "dd98f2134d003eedc7fdc2efb7e077621a02394f82dc93714464f8f06d9b4468"
+        },
+        {
+            "timestamp": "2026-06-11T22:01:11+00:00Z",
+            "new_etag": "dd98f2134d003eedc7fdc2efb7e077621a02394f82dc93714464f8f06d9b4468",
+            "status": "success (200)",
+            "previous_etag": "5ab44ac22bdb9e8e354b7a38397b18aa500b8a62eb2eb72e32b31b812b3f2f46"
+        },
         {
             "timestamp": "2026-06-11T19:35:07+00:00Z",
             "new_etag": "5ab44ac22bdb9e8e354b7a38397b18aa500b8a62eb2eb72e32b31b812b3f2f46",
@@ -49,18 +61,6 @@
         {
             "timestamp": "2026-06-11T05:07:41+00:00Z",
             "new_etag": "5ab44ac22bdb9e8e354b7a38397b18aa500b8a62eb2eb72e32b31b812b3f2f46",
-            "status": "success (200)",
-            "previous_etag": "fc31830e90317ca6b2b9de538ef59e20019897179236dc190364de5c51c62775"
-        },
-        {
-            "timestamp": "2026-06-10T22:25:05+00:00Z",
-            "new_etag": "fc31830e90317ca6b2b9de538ef59e20019897179236dc190364de5c51c62775",
-            "status": "success (200)",
-            "previous_etag": "fc31830e90317ca6b2b9de538ef59e20019897179236dc190364de5c51c62775"
-        },
-        {
-            "timestamp": "2026-06-10T22:24:37+00:00Z",
-            "new_etag": "fc31830e90317ca6b2b9de538ef59e20019897179236dc190364de5c51c62775",
             "status": "success (200)",
             "previous_etag": "fc31830e90317ca6b2b9de538ef59e20019897179236dc190364de5c51c62775"
         }
