@@ -13,7 +13,7 @@
       <link>https://sofa.macadmins.io/v1/rss_feed.xml</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Wed, 10 Jun 2026 22:25:19 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 11 Jun 2026 05:08:44 +0000</lastBuildDate>
     <item>
       <title>XProtect Plist Config 5347</title>
       <link>https://sofa.macadmins.io/</link>
@@ -182,7 +182,7 @@
     <item>
       <title>iOS 18.7.2 and iPadOS 18.7.2</title>
       <link>https://sofa.macadmins.io/</link>
-      <description>Vulnerabilities Addressed: 38&lt;br&gt;Exploited CVE(s): 0&lt;br&gt;Days to Prev. Release: 37</description>
+      <description>Vulnerabilities Addressed: 39&lt;br&gt;Exploited CVE(s): 0&lt;br&gt;Days to Prev. Release: 37</description>
       <guid isPermaLink="false">iOS_OS_18.7.2</guid>
       <pubDate>Wed, 05 Nov 2025 00:00:00 +0000</pubDate>
     </item>
@@ -399,28 +399,28 @@
     <item>
       <title>iOS 18.4 and iPadOS 18.4</title>
       <link>https://sofa.macadmins.io/</link>
-      <description>Vulnerabilities Addressed: 77&lt;br&gt;Exploited CVE(s): 0&lt;br&gt;Days to Prev. Release: 20</description>
+      <description>Vulnerabilities Addressed: 78&lt;br&gt;Exploited CVE(s): 0&lt;br&gt;Days to Prev. Release: 20</description>
       <guid isPermaLink="false">iOS_OS_18.4</guid>
       <pubDate>Mon, 31 Mar 2025 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>macOS Ventura 13.7.5</title>
       <link>https://sofa.macadmins.io/</link>
-      <description>Vulnerabilities Addressed: 103&lt;br&gt;Exploited CVE(s): 1&lt;br&gt;Days to Prev. Release: 49</description>
+      <description>Vulnerabilities Addressed: 108&lt;br&gt;Exploited CVE(s): 1&lt;br&gt;Days to Prev. Release: 49</description>
       <guid isPermaLink="false">macOS_OS_13.7.5</guid>
       <pubDate>Mon, 31 Mar 2025 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>macOS Sonoma 14.7.5</title>
       <link>https://sofa.macadmins.io/</link>
-      <description>Vulnerabilities Addressed: 110&lt;br&gt;Exploited CVE(s): 1&lt;br&gt;Days to Prev. Release: 49</description>
+      <description>Vulnerabilities Addressed: 115&lt;br&gt;Exploited CVE(s): 1&lt;br&gt;Days to Prev. Release: 49</description>
       <guid isPermaLink="false">macOS_OS_14.7.5</guid>
       <pubDate>Mon, 31 Mar 2025 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>macOS Sequoia 15.4</title>
       <link>https://sofa.macadmins.io/</link>
-      <description>Vulnerabilities Addressed: 155&lt;br&gt;Exploited CVE(s): 0&lt;br&gt;Days to Prev. Release: 20</description>
+      <description>Vulnerabilities Addressed: 165&lt;br&gt;Exploited CVE(s): 0&lt;br&gt;Days to Prev. Release: 20</description>
       <guid isPermaLink="false">macOS_OS_15.4</guid>
       <pubDate>Mon, 31 Mar 2025 00:00:00 +0000</pubDate>
     </item>
