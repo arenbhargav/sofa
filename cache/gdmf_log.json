@@ -1,9 +1,21 @@
 {
     "latest_etag": {
-        "LastCheck": "2026-06-22T14:12:02+00:00Z",
-        "UpdateHash": "7edd774e149783788dbe7b25a45fdc7a09243f7933f7e860cf749749a6fde839"
+        "LastCheck": "2026-06-22T19:52:56+00:00Z",
+        "UpdateHash": "2a0ee784dd184e8947b36bfa30ed5d4e1832e2c50a0c23b5208ecc8c10eeaa01"
     },
     "log": [
+        {
+            "timestamp": "2026-06-22T19:52:56+00:00Z",
+            "new_etag": "2a0ee784dd184e8947b36bfa30ed5d4e1832e2c50a0c23b5208ecc8c10eeaa01",
+            "status": "success (200)",
+            "previous_etag": "2a0ee784dd184e8947b36bfa30ed5d4e1832e2c50a0c23b5208ecc8c10eeaa01"
+        },
+        {
+            "timestamp": "2026-06-22T19:52:07+00:00Z",
+            "new_etag": "2a0ee784dd184e8947b36bfa30ed5d4e1832e2c50a0c23b5208ecc8c10eeaa01",
+            "status": "success (200)",
+            "previous_etag": "7edd774e149783788dbe7b25a45fdc7a09243f7933f7e860cf749749a6fde839"
+        },
         {
             "timestamp": "2026-06-22T14:12:02+00:00Z",
             "new_etag": "7edd774e149783788dbe7b25a45fdc7a09243f7933f7e860cf749749a6fde839",
@@ -48,18 +60,6 @@
         },
         {
             "timestamp": "2026-06-21T18:02:23+00:00Z",
-            "new_etag": "5d8992b5ead0e57b271ee636b2e734f2d6f34eb2bf9c26b114442422bd040562",
-            "status": "success (200)",
-            "previous_etag": "5d8992b5ead0e57b271ee636b2e734f2d6f34eb2bf9c26b114442422bd040562"
-        },
-        {
-            "timestamp": "2026-06-21T14:40:12+00:00Z",
-            "new_etag": "5d8992b5ead0e57b271ee636b2e734f2d6f34eb2bf9c26b114442422bd040562",
-            "status": "success (200)",
-            "previous_etag": "5d8992b5ead0e57b271ee636b2e734f2d6f34eb2bf9c26b114442422bd040562"
-        },
-        {
-            "timestamp": "2026-06-21T14:38:57+00:00Z",
             "new_etag": "5d8992b5ead0e57b271ee636b2e734f2d6f34eb2bf9c26b114442422bd040562",
             "status": "success (200)",
             "previous_etag": "5d8992b5ead0e57b271ee636b2e734f2d6f34eb2bf9c26b114442422bd040562"
