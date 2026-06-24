@@ -1275,7 +1275,7 @@
             "CVE-2023-28321": false,
             "CVE-2023-28322": false,
             "CVE-2023-32416": false,
-            "CVE-2023-41990": false,
+            "CVE-2023-41990": true,
             "CVE-2023-36854": false,
             "CVE-2023-32418": false,
             "CVE-2023-38603": false,
@@ -1287,7 +1287,7 @@
             "CVE-2023-32381": false,
             "CVE-2023-32433": false,
             "CVE-2023-35993": false,
-            "CVE-2023-38606": false,
+            "CVE-2023-38606": true,
             "CVE-2023-32441": false,
             "CVE-2023-38565": false,
             "CVE-2023-38593": false,
@@ -1315,7 +1315,10 @@
             "CVE-2023-2610": false,
             "CVE-2023-38605": false
         },
-        "ActivelyExploitedCVEs": [],
+        "ActivelyExploitedCVEs": [
+            "CVE-2023-41990",
+            "CVE-2023-38606"
+        ],
         "UniqueCVEsCount": 50,
         "DaysSincePreviousRelease": 33
     },
