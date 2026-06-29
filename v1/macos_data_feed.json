@@ -1,5 +1,5 @@
 {
-    "UpdateHash": "46f002685c0a05a9f64af7fe6536d62ce35de3c4648f79a2c42f181a1b39ad1b",
+    "UpdateHash": "873d4561c7833a6f98589e2df9c4107099e2259c0676bce39921ebd4f3102777",
     "OSVersions": [
         {
             "OSVersion": "Sequoia 15",
@@ -12965,12 +12965,19 @@
     "InstallationApps": {
         "LatestUMA": {
             "title": "macOS Tahoe",
-            "version": "26.5.1",
-            "build": "25F80",
-            "apple_slug": "122-84023",
-            "url": "https://swcdn.apple.com/content/downloads/22/07/122-84023-A_RQPL3GX2L6/l6vt7agjz206oaiyhvc0a4wupeffjk36st/InstallAssistant.pkg"
+            "version": "26.5.2",
+            "build": "25F84",
+            "apple_slug": "140-36226",
+            "url": "https://swcdn.apple.com/content/downloads/63/03/140-36226-A_WUCZCLWK7K/1elqm2ix9y06je9fgy9rdqed1jod0jgxoe/InstallAssistant.pkg"
         },
         "AllPreviousUMA": [
+            {
+                "title": "macOS Tahoe",
+                "version": "26.5.1",
+                "build": "25F80",
+                "apple_slug": "122-84023",
+                "url": "https://swcdn.apple.com/content/downloads/22/07/122-84023-A_RQPL3GX2L6/l6vt7agjz206oaiyhvc0a4wupeffjk36st/InstallAssistant.pkg"
+            },
             {
                 "title": "macOS Tahoe",
                 "version": "26.5",
@@ -13127,10 +13134,10 @@
             }
         ],
         "LatestMacIPSW": {
-            "macos_ipsw_url": "https://updates.cdn-apple.com/2026SpringFCS/fullrestores/122-88870/E47EBB85-45F2-4E3C-B9E7-6FF7868C2FBA/UniversalMac_26.5.1_25F80_Restore.ipsw",
-            "macos_ipsw_build": "25F80",
-            "macos_ipsw_version": "26.5.1",
-            "macos_ipsw_apple_slug": "122-88870"
+            "macos_ipsw_url": "https://updates.cdn-apple.com/2026SpringFCS/fullrestores/140-24263/B95838F0-6815-4F0B-A039-156526C081AD/UniversalMac_26.5.2_25F84_Restore.ipsw",
+            "macos_ipsw_build": "25F84",
+            "macos_ipsw_version": "26.5.2",
+            "macos_ipsw_apple_slug": "140-24263"
         }
     }
 }
