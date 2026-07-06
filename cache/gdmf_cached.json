@@ -1,5 +1,5 @@
 {
-    "etag": "59bba2e3d4ecb9dd12e5a048191cc5ab21f77f3bb02f9fd49ad89b078813f41b",
+    "etag": "0550a2492f90840ada6c7fbbbc08aa270e526f82e73d50aa0f9cdd13177d2282",
     "data": {
         "PublicAssetSets": {
             "iOS": [
@@ -1592,7 +1592,7 @@
                     "ProductVersion": "26.5.1",
                     "Build": "23F81",
                     "PostingDate": "2026-06-01",
-                    "ExpirationDate": "2026-10-04",
+                    "ExpirationDate": "2026-09-27",
                     "SupportedDevices": [
                         "iPhone18,1",
                         "iPhone18,2",
@@ -1871,7 +1871,7 @@
                     "ProductVersion": "26.5",
                     "Build": "23F77",
                     "PostingDate": "2026-05-11",
-                    "ExpirationDate": "2026-10-04",
+                    "ExpirationDate": "2026-09-27",
                     "SupportedDevices": [
                         "iPad11,1",
                         "iPad11,2",
@@ -2134,7 +2134,7 @@
                     "ProductVersion": "26.5.1",
                     "Build": "23F6081",
                     "PostingDate": "2026-06-01",
-                    "ExpirationDate": "2026-10-04",
+                    "ExpirationDate": "2026-09-27",
                     "SupportedDevices": [
                         "iPhone18,1",
                         "iPhone18,2",
@@ -2545,7 +2545,7 @@
                     "ProductVersion": "26.5",
                     "Build": "23F6077",
                     "PostingDate": "2026-05-11",
-                    "ExpirationDate": "2026-10-04",
+                    "ExpirationDate": "2026-09-27",
                     "SupportedDevices": [
                         "iPad11,1",
                         "iPad11,2",
