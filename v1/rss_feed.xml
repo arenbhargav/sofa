@@ -13,7 +13,21 @@
       <link>https://sofa.macadmins.io/v1/rss_feed.xml</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Mon, 27 Jul 2026 15:21:57 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 27 Jul 2026 18:01:15 +0000</lastBuildDate>
+    <item>
+      <title>macOS Sonoma 14.8.8</title>
+      <link>https://sofa.macadmins.io/</link>
+      <description>Vulnerabilities Addressed: 127&lt;br&gt;Exploited CVE(s): 0&lt;br&gt;Days to Prev. Release: 77</description>
+      <guid isPermaLink="false">macOS_OS_14.8.8</guid>
+      <pubDate>Mon, 27 Jul 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>macOS Sequoia 15.7.8</title>
+      <link>https://sofa.macadmins.io/</link>
+      <description>Vulnerabilities Addressed: 138&lt;br&gt;Exploited CVE(s): 0&lt;br&gt;Days to Prev. Release: 77</description>
+      <guid isPermaLink="false">macOS_OS_15.7.8</guid>
+      <pubDate>Mon, 27 Jul 2026 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>XProtect Plist Config 5352</title>
       <link>https://sofa.macadmins.io/</link>
