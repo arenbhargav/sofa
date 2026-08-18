@@ -13,19 +13,19 @@
       <link>https://sofa.macadmins.io/v1/rss_feed.xml</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Tue, 18 Aug 2026 17:24:45 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 18 Aug 2026 18:34:46 +0000</lastBuildDate>
+    <item>
+      <title>XProtect Plist Config 5356</title>
+      <link>https://sofa.macadmins.io/</link>
+      <guid isPermaLink="false">XProtect_Config_5356</guid>
+      <pubDate>Tue, 18 Aug 2026 17:29:41 +0000</pubDate>
+    </item>
     <item>
       <title>iOS 18.7.10 and iPadOS 18.7.10</title>
       <link>https://sofa.macadmins.io/</link>
       <description>Vulnerabilities Addressed: 122&lt;br&gt;Exploited CVE(s): 0&lt;br&gt;Days to Prev. Release: 98</description>
       <guid isPermaLink="false">iOS_OS_18.7.10</guid>
       <pubDate>Mon, 17 Aug 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>XProtect Plist Config 5355</title>
-      <link>https://sofa.macadmins.io/</link>
-      <guid isPermaLink="false">XProtect_Config_5355</guid>
-      <pubDate>Tue, 11 Aug 2026 17:32:19 +0000</pubDate>
     </item>
     <item>
       <title>macOS Sonoma 14.8.9</title>
