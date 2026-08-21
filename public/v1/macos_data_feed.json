@@ -1,5 +1,5 @@
 {
-    "UpdateHash": "ad0de789cf01dc98180a63de68f743923a6478ae95adb65ebf1ddaf3e0394334",
+    "UpdateHash": "c040030a8fa6e29fcb5608d014e090e793ca10762159c6fe0b8e6a79457db77c",
     "OSVersions": [
         {
             "OSVersion": "Sequoia 15",
@@ -7,7 +7,7 @@
                 "ProductVersion": "15.7.9",
                 "Build": "24G830",
                 "ReleaseDate": "2026-08-06T00:00:00Z",
-                "ExpirationDate": "2026-11-18T00:00:00Z",
+                "ExpirationDate": "2026-11-19T00:00:00Z",
                 "SupportedDevices": [
                     "J132AP",
                     "J137AP",
@@ -572,6 +572,7 @@
                         "CVE-2026-20690": false,
                         "CVE-2026-28821": false,
                         "CVE-2026-28838": false,
+                        "CVE-2026-20679": false,
                         "CVE-2026-28886": false,
                         "CVE-2026-28888": false,
                         "CVE-2025-14524": false,
@@ -614,7 +615,7 @@
                         "CVE-2026-20657": false
                     },
                     "ActivelyExploitedCVEs": [],
-                    "UniqueCVEsCount": 59,
+                    "UniqueCVEsCount": 60,
                     "DaysSincePreviousRelease": 41
                 },
                 {
@@ -681,20 +682,33 @@
                         "VMM-x86_64"
                     ],
                     "CVEs": {
+                        "CVE-2026-28995": false,
+                        "CVE-2026-20670": false,
                         "CVE-2026-20624": false,
                         "CVE-2026-20625": false,
                         "CVE-2025-43403": false,
                         "CVE-2026-20611": false,
                         "CVE-2026-20609": false,
+                        "CVE-2026-20615": false,
+                        "CVE-2026-20617": false,
+                        "CVE-2025-46283": false,
+                        "CVE-2026-20627": false,
+                        "CVE-2025-46281": false,
+                        "CVE-2025-43417": false,
+                        "CVE-2026-20623": false,
                         "CVE-2026-20620": false,
                         "CVE-2026-20634": false,
                         "CVE-2026-20675": false,
                         "CVE-2026-20671": false,
                         "CVE-2026-20626": false,
+                        "CVE-2026-20630": false,
+                        "CVE-2025-46291": false,
                         "CVE-2025-59375": false,
                         "CVE-2026-20667": false,
                         "CVE-2026-20673": false,
+                        "CVE-2026-20677": false,
                         "CVE-2026-20694": false,
+                        "CVE-2026-20696": false,
                         "CVE-2025-43533": false,
                         "CVE-2025-46300": false,
                         "CVE-2025-46301": false,
@@ -708,6 +722,7 @@
                         "CVE-2025-46290": false,
                         "CVE-2026-20653": false,
                         "CVE-2026-20622": false,
+                        "CVE-2025-43473": false,
                         "CVE-2026-20662": false,
                         "CVE-2026-20680": false,
                         "CVE-2026-20612": false,
@@ -720,7 +735,7 @@
                         "CVE-2026-20602": false
                     },
                     "ActivelyExploitedCVEs": [],
-                    "UniqueCVEsCount": 37,
+                    "UniqueCVEsCount": 51,
                     "DaysSincePreviousRelease": 61
                 },
                 {
@@ -2810,7 +2825,7 @@
                 "ProductVersion": "14.8.9",
                 "Build": "23J631",
                 "ReleaseDate": "2026-08-06T00:00:00Z",
-                "ExpirationDate": "2026-11-18T00:00:00Z",
+                "ExpirationDate": "2026-11-19T00:00:00Z",
                 "SupportedDevices": [
                     "J132AP",
                     "J137AP",
@@ -3345,6 +3360,7 @@
                         "CVE-2026-20690": false,
                         "CVE-2026-28821": false,
                         "CVE-2026-28838": false,
+                        "CVE-2026-20679": false,
                         "CVE-2026-28886": false,
                         "CVE-2026-28878": false,
                         "CVE-2026-28888": false,
@@ -3383,7 +3399,7 @@
                         "CVE-2026-20657": false
                     },
                     "ActivelyExploitedCVEs": [],
-                    "UniqueCVEsCount": 55,
+                    "UniqueCVEsCount": 56,
                     "DaysSincePreviousRelease": 41
                 },
                 {
@@ -3452,6 +3468,7 @@
                         "VMM-x86_64"
                     ],
                     "CVEs": {
+                        "CVE-2026-28995": false,
                         "CVE-2026-20670": false,
                         "CVE-2026-20624": false,
                         "CVE-2026-20625": false,
@@ -3464,17 +3481,20 @@
                         "CVE-2025-46283": false,
                         "CVE-2026-20627": false,
                         "CVE-2025-43417": false,
+                        "CVE-2025-46281": false,
                         "CVE-2026-20620": false,
                         "CVE-2025-43338": false,
                         "CVE-2026-20634": false,
                         "CVE-2026-20675": false,
                         "CVE-2026-20671": false,
+                        "CVE-2026-20630": false,
                         "CVE-2025-59375": false,
                         "CVE-2026-20667": false,
                         "CVE-2026-20673": false,
                         "CVE-2026-20677": false,
                         "CVE-2026-20651": false,
                         "CVE-2026-20694": false,
+                        "CVE-2026-20696": false,
                         "CVE-2026-20616": false,
                         "CVE-2025-43533": false,
                         "CVE-2025-46300": false,
@@ -3488,6 +3508,8 @@
                         "CVE-2026-20628": false,
                         "CVE-2025-46290": false,
                         "CVE-2026-20653": false,
+                        "CVE-2025-43473": false,
+                        "CVE-2026-20622": false,
                         "CVE-2026-20680": false,
                         "CVE-2026-20612": false,
                         "CVE-2026-20641": false,
@@ -3498,7 +3520,7 @@
                         "CVE-2026-20602": false
                     },
                     "ActivelyExploitedCVEs": [],
-                    "UniqueCVEsCount": 44,
+                    "UniqueCVEsCount": 50,
                     "DaysSincePreviousRelease": 61
                 },
                 {
@@ -6431,7 +6453,7 @@
                 "ProductVersion": "13.7.8",
                 "Build": "22H730",
                 "ReleaseDate": "2025-08-20T00:00:00Z",
-                "ExpirationDate": "2026-11-18T00:00:00Z",
+                "ExpirationDate": "2026-11-19T00:00:00Z",
                 "SupportedDevices": [
                     "J132AP",
                     "J137AP",
@@ -9858,7 +9880,7 @@
                 "ProductVersion": "12.7.6",
                 "Build": "21H1320",
                 "ReleaseDate": "2024-07-29T00:00:00Z",
-                "ExpirationDate": "2026-11-18T00:00:00Z",
+                "ExpirationDate": "2026-11-19T00:00:00Z",
                 "SupportedDevices": [
                     "J132AP",
                     "J137AP",
