@@ -5481,6 +5481,7 @@
         "SecurityInfo": "https://support.apple.com/en-ca/127116",
         "SupportedDevices": [],
         "CVEs": {
+            "CVE-2026-64732": false,
             "CVE-2026-28959": false,
             "CVE-2026-28956": false,
             "CVE-2026-39869": false,
@@ -5489,6 +5490,7 @@
             "CVE-2026-28915": false,
             "CVE-2026-43659": false,
             "CVE-2026-28923": false,
+            "CVE-2026-64705": false,
             "CVE-2026-28925": false,
             "CVE-2025-43524": false,
             "CVE-2026-28977": false,
@@ -5528,7 +5530,7 @@
             "CVE-2026-28920": false
         },
         "ActivelyExploitedCVEs": [],
-        "UniqueCVEsCount": 45,
+        "UniqueCVEsCount": 47,
         "DaysSincePreviousRelease": 48
     },
     {
@@ -5548,6 +5550,7 @@
             "CVE-2026-28915": false,
             "CVE-2026-43659": false,
             "CVE-2026-28923": false,
+            "CVE-2026-64705": false,
             "CVE-2026-28925": false,
             "CVE-2025-43524": false,
             "CVE-2026-28977": false,
@@ -5571,6 +5574,7 @@
             "CVE-2026-43666": false,
             "CVE-2026-28906": false,
             "CVE-2026-28840": false,
+            "CVE-2026-28912": false,
             "CVE-2026-43656": false,
             "CVE-2026-39870": false,
             "CVE-2026-28846": false,
@@ -5584,7 +5588,7 @@
             "CVE-2026-28920": false
         },
         "ActivelyExploitedCVEs": [],
-        "UniqueCVEsCount": 42,
+        "UniqueCVEsCount": 44,
         "DaysSincePreviousRelease": 48
     },
     {
