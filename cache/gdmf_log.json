@@ -1,9 +1,21 @@
 {
     "latest_etag": {
-        "LastCheck": "2026-08-24T20:57:33+00:00Z",
-        "UpdateHash": "3d4d0ae42efe2fb46a9da5f06400f5fe4475c39f74da6915d1d55aa0a73ff929"
+        "LastCheck": "2026-08-25T01:58:40+00:00Z",
+        "UpdateHash": "470a65039808e21f8bf028178c2e284c043990451f9ad3c286e7afffae5e2773"
     },
     "log": [
+        {
+            "timestamp": "2026-08-25T01:58:40+00:00Z",
+            "new_etag": "470a65039808e21f8bf028178c2e284c043990451f9ad3c286e7afffae5e2773",
+            "status": "success (200)",
+            "previous_etag": "470a65039808e21f8bf028178c2e284c043990451f9ad3c286e7afffae5e2773"
+        },
+        {
+            "timestamp": "2026-08-25T01:57:51+00:00Z",
+            "new_etag": "470a65039808e21f8bf028178c2e284c043990451f9ad3c286e7afffae5e2773",
+            "status": "success (200)",
+            "previous_etag": "3d4d0ae42efe2fb46a9da5f06400f5fe4475c39f74da6915d1d55aa0a73ff929"
+        },
         {
             "timestamp": "2026-08-24T20:57:33+00:00Z",
             "new_etag": "3d4d0ae42efe2fb46a9da5f06400f5fe4475c39f74da6915d1d55aa0a73ff929",
@@ -48,18 +60,6 @@
         },
         {
             "timestamp": "2026-08-24T18:36:08+00:00Z",
-            "new_etag": "b722b1e7685790b60869c6d654798689e38f6e2566d792260c2e22e340573c82",
-            "status": "success (200)",
-            "previous_etag": "b722b1e7685790b60869c6d654798689e38f6e2566d792260c2e22e340573c82"
-        },
-        {
-            "timestamp": "2026-08-24T17:28:28+00:00Z",
-            "new_etag": "b722b1e7685790b60869c6d654798689e38f6e2566d792260c2e22e340573c82",
-            "status": "success (200)",
-            "previous_etag": "b722b1e7685790b60869c6d654798689e38f6e2566d792260c2e22e340573c82"
-        },
-        {
-            "timestamp": "2026-08-24T17:27:49+00:00Z",
             "new_etag": "b722b1e7685790b60869c6d654798689e38f6e2566d792260c2e22e340573c82",
             "status": "success (200)",
             "previous_etag": "b722b1e7685790b60869c6d654798689e38f6e2566d792260c2e22e340573c82"
