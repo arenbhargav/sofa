@@ -1,5 +1,5 @@
 {
-    "UpdateHash": "532e7782e3c6fee1b35e0a7b2cda3e6d94fcbeb3f7e8c5463b729c7907f3c249",
+    "UpdateHash": "17e606877c818444043a0ac1786fe055d25f8fdf7ea2604803c34cb3f327ec19",
     "OSVersions": [
         {
             "OSVersion": "Sequoia 15",
@@ -13876,13 +13876,6 @@
                 "build": "25F84",
                 "apple_slug": "140-36226",
                 "url": "https://swcdn.apple.com/content/downloads/63/03/140-36226-A_WUCZCLWK7K/1elqm2ix9y06je9fgy9rdqed1jod0jgxoe/InstallAssistant.pkg"
-            },
-            {
-                "title": "macOS Tahoe",
-                "version": "26.5.1",
-                "build": "25F80",
-                "apple_slug": "122-84023",
-                "url": "https://swcdn.apple.com/content/downloads/22/07/122-84023-A_RQPL3GX2L6/l6vt7agjz206oaiyhvc0a4wupeffjk36st/InstallAssistant.pkg"
             },
             {
                 "title": "macOS Sequoia",
