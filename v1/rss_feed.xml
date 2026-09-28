@@ -13,7 +13,20 @@
       <link>https://sofa.macadmins.io/v1/rss_feed.xml</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Mon, 28 Sep 2026 16:53:55 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 28 Sep 2026 22:24:38 +0000</lastBuildDate>
+    <item>
+      <title>XProtect Plist Config 5362</title>
+      <link>https://sofa.macadmins.io/</link>
+      <guid isPermaLink="false">XProtect_Config_5362</guid>
+      <pubDate>Mon, 28 Sep 2026 21:36:50 +0000</pubDate>
+    </item>
+    <item>
+      <title>macOS Sequoia 15.8.1</title>
+      <link>https://sofa.macadmins.io/</link>
+      <description>Vulnerabilities Addressed: 1&lt;br&gt;Exploited CVE(s): 1&lt;br&gt;Days to Prev. Release: 14</description>
+      <guid isPermaLink="false">macOS_OS_15.8.1</guid>
+      <pubDate>Mon, 28 Sep 2026 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>XProtect Plug-in Service 74</title>
       <link>https://sofa.macadmins.io/</link>
@@ -25,12 +38,6 @@
       <link>https://sofa.macadmins.io/</link>
       <guid isPermaLink="false">XProtect_Remediator_163</guid>
       <pubDate>Fri, 18 Sep 2026 17:06:59 +0000</pubDate>
-    </item>
-    <item>
-      <title>XProtect Plist Config 5360</title>
-      <link>https://sofa.macadmins.io/</link>
-      <guid isPermaLink="false">XProtect_Config_5360</guid>
-      <pubDate>Thu, 17 Sep 2026 16:08:45 +0000</pubDate>
     </item>
     <item>
       <title>macOS Sequoia 15.8</title>
