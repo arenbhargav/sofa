@@ -1,9 +1,21 @@
 {
     "latest_etag": {
-        "LastCheck": "2026-10-08T15:46:05+00:00Z",
-        "UpdateHash": "8340cc14ea0c5ec20415de0641840f3fa0b382917a91d85d8a3661eb0ccbbb4a"
+        "LastCheck": "2026-10-08T21:25:32+00:00Z",
+        "UpdateHash": "a982879e80f9a512ede1bf8f296735022a90bffffd9494a8a4581f32312879d3"
     },
     "log": [
+        {
+            "timestamp": "2026-10-08T21:25:32+00:00Z",
+            "new_etag": "a982879e80f9a512ede1bf8f296735022a90bffffd9494a8a4581f32312879d3",
+            "status": "success (200)",
+            "previous_etag": "a982879e80f9a512ede1bf8f296735022a90bffffd9494a8a4581f32312879d3"
+        },
+        {
+            "timestamp": "2026-10-08T21:24:53+00:00Z",
+            "new_etag": "a982879e80f9a512ede1bf8f296735022a90bffffd9494a8a4581f32312879d3",
+            "status": "success (200)",
+            "previous_etag": "8340cc14ea0c5ec20415de0641840f3fa0b382917a91d85d8a3661eb0ccbbb4a"
+        },
         {
             "timestamp": "2026-10-08T15:46:05+00:00Z",
             "new_etag": "8340cc14ea0c5ec20415de0641840f3fa0b382917a91d85d8a3661eb0ccbbb4a",
@@ -48,18 +60,6 @@
         },
         {
             "timestamp": "2026-10-07T21:25:59+00:00Z",
-            "new_etag": "8cd9d37d446fe25fddafb96f94433b35aac0edb017a3370a59bbb56b4abcaff9",
-            "status": "success (200)",
-            "previous_etag": "8cd9d37d446fe25fddafb96f94433b35aac0edb017a3370a59bbb56b4abcaff9"
-        },
-        {
-            "timestamp": "2026-10-07T15:41:03+00:00Z",
-            "new_etag": "8cd9d37d446fe25fddafb96f94433b35aac0edb017a3370a59bbb56b4abcaff9",
-            "status": "success (200)",
-            "previous_etag": "8cd9d37d446fe25fddafb96f94433b35aac0edb017a3370a59bbb56b4abcaff9"
-        },
-        {
-            "timestamp": "2026-10-07T15:39:38+00:00Z",
             "new_etag": "8cd9d37d446fe25fddafb96f94433b35aac0edb017a3370a59bbb56b4abcaff9",
             "status": "success (200)",
             "previous_etag": "8cd9d37d446fe25fddafb96f94433b35aac0edb017a3370a59bbb56b4abcaff9"
